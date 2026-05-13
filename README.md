@@ -2,6 +2,7 @@
 
 **DATA/MSML 641 — Natural Language Processing | Final Project**
 **Author:** Abigail Basener | University of Maryland
+**Github Link:** https://github.com/abasener/MSML641-Final-Project
 
 A question-answering system for astronomy queries backed by a locally hosted
 knowledge graph built from DBpedia. The pipeline runs fully offline after
