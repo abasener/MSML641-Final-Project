@@ -1,0 +1,3155 @@
+@prefix ns1: <http://dbpedia.org/ontology/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://dbpedia.org/resource/(145451)_2005_RM43> a ns1:Planet ;
+    rdfs:label "(145451) 2005 RM43"@en,
+        "145451 Rumina"@en ;
+    ns1:description "trans-Neptunian object"@en .
+
+<http://dbpedia.org/resource/(145452)_2005_RN43> a ns1:Planet ;
+    rdfs:label "(145452) 2005 RN43"@en,
+        "145452 Ritona"@en ;
+    ns1:description "classical Kuiper belt object"@en .
+
+<http://dbpedia.org/resource/(163249)_2002_GT> a ns1:Planet ;
+    rdfs:label "(163249) 2002 GT"@en ;
+    ns1:description "Apollo asteroid"@en .
+
+<http://dbpedia.org/resource/(179806)_2002_TD66> a ns1:Planet ;
+    rdfs:label "(179806) 2002 TD66"@en ;
+    ns1:description "near-Earth asteroid"@en .
+
+<http://dbpedia.org/resource/(20729)_1999_XS143> a ns1:Planet ;
+    rdfs:label "(20729) 1999 XS143"@en,
+        "20729 Opheltius"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/(21601)_1998_XO89> a ns1:Planet ;
+    rdfs:label "(21601) 1998 XO89"@en,
+        "21601 Aias"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/(32496)_2000_WX182> a ns1:Planet ;
+    rdfs:label "(32496) 2000 WX182"@en,
+        "32496 Deïopites"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/(458271)_2010_UM26_and_2010_RN221> a ns1:Planet ;
+    rdfs:label "(458271) 2010 UM26 and (796785) 2010 RN221"@en,
+        "(458271) 2010 UM26 and 2010 RN221"@en ;
+    ns1:description "asteroid pair"@en .
+
+<http://dbpedia.org/resource/(501647)_2014_SD224> a ns1:Planet ;
+    rdfs:label "(501647) 2014 SD224"@en ;
+    ns1:description "near-Earth asteroid"@en .
+
+<http://dbpedia.org/resource/(523676)_2013_UL10> a ns1:Planet ;
+    rdfs:label "(523676) 2013 UL10"@en ;
+    ns1:description "Centaur (small Solar System body)"@en .
+
+<http://dbpedia.org/resource/(523764)_2014_WC510> a ns1:Planet ;
+    rdfs:label "(523764) 2014 WC510"@en ;
+    ns1:description "binary trans-Neptunian object"@en .
+
+<http://dbpedia.org/resource/(6265)_1985_TW3> a ns1:Planet ;
+    rdfs:label "(6265) 1985 TW3"@en ;
+    ns1:description "main-belt minor planet"@en .
+
+<http://dbpedia.org/resource/(78799)_2002_XW93> a ns1:Planet ;
+    rdfs:label "(78799) 2002 XW93"@en,
+        "78799 Xewioso"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/(82158)_2001_FP185> a ns1:Planet ;
+    rdfs:label "(82158) 2001 FP185"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/109_Piscium_b> a ns1:Planet ;
+    rdfs:label "109 Piscium b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/14_Camelopardalis> a ns1:Star ;
+    rdfs:label "14 Camelopardalis"@en ;
+    ns1:description "star in the constellation Camelopardalis"@en .
+
+<http://dbpedia.org/resource/14_Eridani> a ns1:Star ;
+    rdfs:label "14 Eridani"@en ;
+    ns1:description "star in the constellation Eridanus"@en .
+
+<http://dbpedia.org/resource/14_Sagittae> a ns1:Star ;
+    rdfs:label "14 Sagittae"@en ;
+    ns1:description "star in the constellation Aquila"@en .
+
+<http://dbpedia.org/resource/15_Cygni> a ns1:Star ;
+    rdfs:label "15 Cygni"@en ;
+    ns1:description "star in the constellation Cygnus"@en .
+
+<http://dbpedia.org/resource/15_Draconis> a ns1:Star ;
+    rdfs:label "15 Draconis"@en ;
+    ns1:description "star in the constellation Draco"@en .
+
+<http://dbpedia.org/resource/15_Eridani> a ns1:Star ;
+    rdfs:label "15 Eridani"@en ;
+    ns1:description "star in the constellation Eridanus"@en .
+
+<http://dbpedia.org/resource/15_Lyncis> a ns1:Star ;
+    rdfs:label "15 Lyncis"@en ;
+    ns1:description "binary star system in the constellation Lynx"@en .
+
+<http://dbpedia.org/resource/16_Camelopardalis> a ns1:Star ;
+    rdfs:label "16 Camelopardalis"@en ;
+    ns1:description "star in the constellation Camelopardalis"@en .
+
+<http://dbpedia.org/resource/16_Cephei> a ns1:Star ;
+    rdfs:label "16 Cephei"@en ;
+    ns1:description "star in the constellation Cepheus"@en .
+
+<http://dbpedia.org/resource/16_Comae_Berenices> a ns1:Star ;
+    rdfs:label "16 Comae Berenices"@en ;
+    ns1:description "star in the constellation Coma Berenices"@en .
+
+<http://dbpedia.org/resource/16_Lyrae> a ns1:Star ;
+    rdfs:label "16 Lyrae"@en ;
+    ns1:description "star in the constellation Lyra"@en .
+
+<http://dbpedia.org/resource/16_Sagittarii> a ns1:Star ;
+    rdfs:label "16 Sagittarii"@en ;
+    ns1:description "star in the constellation Sagittarius"@en .
+
+<http://dbpedia.org/resource/16_Vulpeculae> a ns1:Star ;
+    rdfs:label "16 Vulpeculae"@en ;
+    ns1:description "multiple star in the constellation Vulpecula"@en .
+
+<http://dbpedia.org/resource/179_Klytaemnestra> a ns1:Planet ;
+    rdfs:label "179 Klytaemnestra"@en ;
+    ns1:description "main-belt asteroid"@en .
+
+<http://dbpedia.org/resource/17_Crateris> a ns1:Star ;
+    rdfs:label "17 Crateris"@en ;
+    ns1:description "binary star system in the constellation Hydra"@en .
+
+<http://dbpedia.org/resource/17_Eridani> a ns1:Star ;
+    rdfs:label "17 Eridani"@en ;
+    ns1:description "star in the constellation Eridanus"@en .
+
+<http://dbpedia.org/resource/17_Sagittarii> a ns1:Star ;
+    rdfs:label "17 Sagittarii"@en ;
+    ns1:description "star in the constellation Sagittarius"@en .
+
+<http://dbpedia.org/resource/17_Vulpeculae> a ns1:Star ;
+    rdfs:label "17 Vulpeculae"@en ;
+    ns1:description "star in the constellation Vulpecula"@en .
+
+<http://dbpedia.org/resource/19367_Pink_Floyd> a ns1:Planet ;
+    rdfs:label "19367 Pink Floyd"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/19383_Rolling_Stones> a ns1:Planet ;
+    rdfs:label "19383 Rolling Stones"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/1957_Angara> a ns1:Planet ;
+    rdfs:label "1957 Angara"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/2011_SC191> a ns1:Planet ;
+    rdfs:label "(816688) 2011 SC191"@en,
+        "2011 SC191"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/2013_FW13> a ns1:Planet ;
+    rdfs:label "(837253) 2013 FW13"@en,
+        "2013 FW13"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/2014_ES57> a ns1:Planet ;
+    rdfs:label "2014 ES57"@en ;
+    ns1:description "previously risk–listed Jupiter trojan"@en .
+
+<http://dbpedia.org/resource/2015_ME131> a ns1:Planet ;
+    rdfs:label "2015 ME131"@en ;
+    ns1:description "near-Earth object and Atira asteroid"@en .
+
+<http://dbpedia.org/resource/2015_YU9> a ns1:Planet ;
+    rdfs:label "(842812) 2015 YU9"@en,
+        "2015 YU9"@en .
+
+<http://dbpedia.org/resource/2017_OF201> a ns1:Planet ;
+    rdfs:label "2017 OF201"@en ;
+    ns1:description "transneptunian object"@en .
+
+<http://dbpedia.org/resource/2017_QC36> a ns1:Planet ;
+    rdfs:label "2017 QC36"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/2018_LF16> a ns1:Planet ;
+    rdfs:label "(845854) 2018 LF16"@en,
+        "2018 LF16"@en .
+
+<http://dbpedia.org/resource/2019_VL5> a ns1:Planet ;
+    rdfs:label "2019 VL5"@en ;
+    ns1:description "near-Earth asteroid"@en .
+
+<http://dbpedia.org/resource/2020_AP1> a ns1:Planet ;
+    rdfs:label "2020 AP1"@en ;
+    ns1:description "apollo near-Earth asteroid"@en .
+
+<http://dbpedia.org/resource/2020_HA10> a ns1:Planet ;
+    rdfs:label "2020 HA10"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/2020_JJ> a ns1:Planet ;
+    rdfs:label "2020 JJ"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/2020_LD> a ns1:Planet ;
+    rdfs:label "2020 LD"@en ;
+    ns1:description "Apollo near-Earth asteroid"@en .
+
+<http://dbpedia.org/resource/2020_OV1> a ns1:Planet ;
+    rdfs:label "2020 OV1"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/2020_QG> a ns1:Planet ;
+    rdfs:label "2020 QG"@en ;
+    ns1:description "Earth-crossing asteroid"@en .
+
+<http://dbpedia.org/resource/2020_SO> a ns1:Planet ;
+    rdfs:label "2020 SO"@en ;
+    ns1:description "tiny near-Earth asteroid or artificial object"@en .
+
+<http://dbpedia.org/resource/2020_SW> a ns1:Planet ;
+    rdfs:label "2020 SW"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/2020_XR> a ns1:Planet ;
+    rdfs:label "(792156) 2020 XR"@en,
+        "2020 XR"@en ;
+    ns1:description "apollo near-Earth asteroid"@en .
+
+<http://dbpedia.org/resource/2021_GW4> a ns1:Planet ;
+    rdfs:label "2021 GW4"@en ;
+    ns1:description "apollo near-Earth asteroid"@en .
+
+<http://dbpedia.org/resource/2023_GQ2> a ns1:Planet ;
+    rdfs:label "2023 GQ2"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/2023_WK3> a ns1:Planet ;
+    rdfs:label "2023 WK3"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/2025_PN7> a ns1:Planet ;
+    rdfs:label "2025 PN7"@en .
+
+<http://dbpedia.org/resource/208996_Achlys> a ns1:Planet ;
+    rdfs:label "208996 Achlys"@en .
+
+<http://dbpedia.org/resource/2104_Toronto> a ns1:Planet ;
+    rdfs:label "2104 Toronto"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/2135_Aristaeus> a ns1:Planet ;
+    rdfs:label "2135 Aristaeus"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/21436_Chaoyichi> a ns1:Planet ;
+    rdfs:label "21436 Chaoyichi"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/21900_Orus> a ns1:Planet ;
+    rdfs:label "21900 Orus"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/2197_Shanghai> a ns1:Planet ;
+    rdfs:label "2197 Shanghai"@en ;
+    ns1:description "main-belt asteroid"@en .
+
+<http://dbpedia.org/resource/21_Lutetia> a ns1:Planet ;
+    rdfs:label "21 Lutetia"@en ;
+    ns1:description "main-belt asteroid"@en .
+
+<http://dbpedia.org/resource/2328_Robeson> a ns1:Planet ;
+    rdfs:label "2328 Robeson"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/24626_Astrowizard> a ns1:Planet ;
+    rdfs:label "24626 Astrowizard"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/2572_Annschnell> a ns1:Planet ;
+    rdfs:label "2572 Annschnell"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/2644_Victor_Jara> a ns1:Planet ;
+    rdfs:label "2644 Victor Jara"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/26_Arietis> a ns1:Star ;
+    rdfs:label "26 Arietis"@en ;
+    ns1:description "star in the constellation Aries"@en .
+
+<http://dbpedia.org/resource/2975_Spahr> a ns1:Planet ;
+    rdfs:label "2975 Spahr"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/2MASS_J2126–8140> a ns1:Planet ;
+    rdfs:label "2MASS J2126–8140"@en,
+        "2MASS J2126−8140"@en ;
+    ns1:description "exoplanet orbiting the red dwarf TYC 9486-927-1"@en .
+
+<http://dbpedia.org/resource/2MASS_J22282889–4310262> a ns1:Star ;
+    rdfs:label "2MASS J22282889–4310262"@en,
+        "2MASS J22282889−4310262"@en ;
+    ns1:description "star in the constellation Grus"@en .
+
+<http://dbpedia.org/resource/2_Aurigae> a ns1:Star ;
+    rdfs:label "2 Aurigae"@en ;
+    ns1:description "star in the constellation Auriga"@en .
+
+<http://dbpedia.org/resource/30705_Idaios> a ns1:Planet ;
+    rdfs:label "30705 Idaios"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/3074_Popov> a ns1:Planet ;
+    rdfs:label "3074 Popov"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/30_Arietis> a ns1:Star ;
+    rdfs:label "30 Arietis"@en ;
+    ns1:description "star in the constellation Aries"@en .
+
+<http://dbpedia.org/resource/3141_Buchar> a ns1:Planet ;
+    rdfs:label "3141 Buchar"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/31_Vulpeculae> a ns1:Star ;
+    rdfs:label "31 Vulpeculae"@en ;
+    ns1:description "star in the constellation Vulpecula"@en .
+
+<http://dbpedia.org/resource/3406_Omsk> a ns1:Planet ;
+    rdfs:label "3406 Omsk"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/34746_Thoon> a ns1:Planet ;
+    rdfs:label "34746 Thoon"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/35_Aquilae> a ns1:Star ;
+    rdfs:label "35 Aquilae"@en ;
+    ns1:description "star in the constellation Aquila"@en .
+
+<http://dbpedia.org/resource/36_Aurigae> a ns1:Star ;
+    rdfs:label "36 Aurigae"@en ;
+    ns1:description "star in the constellation Auriga"@en .
+
+<http://dbpedia.org/resource/3710_Bogoslovskij> a ns1:Planet ;
+    rdfs:label "3710 Bogoslovskij"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/3714_Kenrussell> a ns1:Planet ;
+    rdfs:label "3714 Kenrussell"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/3754_Kathleen> a ns1:Planet ;
+    rdfs:label "3754 Kathleen"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/3782_Celle> a ns1:Planet ;
+    rdfs:label "3782 Celle"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/3785_Kitami> a ns1:Planet ;
+    rdfs:label "3785 Kitami"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/3841_Dicicco> a ns1:Planet ;
+    rdfs:label "3841 Dicicco"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/3873_Roddy> a ns1:Planet ;
+    rdfs:label "3873 Roddy"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/41_G._Arae> a ns1:Star ;
+    rdfs:label "41 G. Arae"@en ;
+    ns1:description "multiple star"@en .
+
+<http://dbpedia.org/resource/4U_1543-475> a ns1:Star ;
+    rdfs:label "4U 1543-475"@en,
+        "4U 1543−475"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/514107_Kaʻepaokaʻawela> a ns1:Planet ;
+    rdfs:label "514107 Kaʻepaokaʻawela"@en,
+        "514107 Kaʻepaokaʻāwela"@en ;
+    ns1:description "retrograde asteroid discovered in 2014"@en .
+
+<http://dbpedia.org/resource/5201_Ferraz-Mello> a ns1:Planet ;
+    rdfs:label "5201 Ferraz-Mello"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/5316_Filatov> a ns1:Planet ;
+    rdfs:label "5316 Filatov"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/54_Arietis> a ns1:Star ;
+    rdfs:label "54 Arietis"@en ;
+    ns1:description "star in the constellation Aries"@en .
+
+<http://dbpedia.org/resource/58_Ophiuchi> a ns1:Star ;
+    rdfs:label "58 Ophiuchi"@en ;
+    ns1:description "star in the constellation Ophiuchus"@en .
+
+<http://dbpedia.org/resource/59_Sagittarii> a ns1:Star ;
+    rdfs:label "59 Sagittarii"@en ;
+    ns1:description "star in the constellation Sagittarius"@en .
+
+<http://dbpedia.org/resource/60_Sagittarii> a ns1:Star ;
+    rdfs:label "60 Sagittarii"@en ;
+    ns1:description "star in the constellation Sagittarius"@en .
+
+<http://dbpedia.org/resource/61_Virginis> a ns1:Star ;
+    rdfs:label "61 Virginis"@en ;
+    ns1:description "star and planetary system in the Milky Way galaxy"@en .
+
+<http://dbpedia.org/resource/61_Virginis_b> a ns1:Planet ;
+    rdfs:label "61 Virginis b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/6247_Amanogawa> a ns1:Planet ;
+    rdfs:label "6247 Amanogawa"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/62_Arietis> a ns1:Star ;
+    rdfs:label "62 Arietis"@en ;
+    ns1:description "star in the constellation Aries"@en .
+
+<http://dbpedia.org/resource/70_Virginis> a ns1:Star ;
+    rdfs:label "70 Virginis"@en ;
+    ns1:description "star in the constellation Virgo"@en .
+
+<http://dbpedia.org/resource/70_Virginis_b> a ns1:Planet ;
+    rdfs:label "70 Virginis b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/790_Pretoria> a ns1:Planet ;
+    rdfs:label "790 Pretoria"@en ;
+    ns1:description "outer main-belt asteroid"@en .
+
+<http://dbpedia.org/resource/9175_Graun> a ns1:Planet ;
+    rdfs:label "9175 Graun"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/93_Herculis> a ns1:Star ;
+    rdfs:label "93 Herculis"@en ;
+    ns1:description "star in the constellation Hercules"@en .
+
+<http://dbpedia.org/resource/94_Piscium> a ns1:Star ;
+    rdfs:label "94 Piscium"@en ;
+    ns1:description "star in the constellation Pisces"@en .
+
+<http://dbpedia.org/resource/9549_Akplatonov> a ns1:Planet ;
+    rdfs:label "9549 Akplatonov"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/98_Herculis> a ns1:Star ;
+    rdfs:label "98 Herculis"@en ;
+    ns1:description "star in the constellation Hercules"@en .
+
+<http://dbpedia.org/resource/9931_Herbhauptman> a ns1:Planet ;
+    rdfs:label "9931 Herbhauptman"@en ;
+    ns1:description "asteroid"@en .
+
+<http://dbpedia.org/resource/9_Equulei> a ns1:Star ;
+    rdfs:label "9 Equulei"@en ;
+    ns1:description "star in the constellation Equuleus"@en .
+
+<http://dbpedia.org/resource/9_Hydrae> a ns1:Star ;
+    rdfs:label "9 Hydrae"@en ;
+    ns1:description "star in the constellation Hydra"@en .
+
+<http://dbpedia.org/resource/AM_1316-241> a ns1:Galaxy ;
+    rdfs:label "AM 1316-241"@en,
+        "AM 1316−241"@en ;
+    ns1:description "pair of overlapponb galaxies in the constellation of Hydra"@en .
+
+<http://dbpedia.org/resource/AN_Ursae_Majoris> a ns1:Star ;
+    rdfs:label "AN Ursae Majoris"@en ;
+    ns1:description "star in the constellation Ursa Major"@en .
+
+<http://dbpedia.org/resource/Abell_1835_IR1916> a ns1:Galaxy ;
+    rdfs:label "Abell 1835 IR1916"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/Alpha1_Capricorni> a ns1:Star ;
+    rdfs:label "Alpha1 Capricorni"@en ;
+    ns1:description "star in the constellation Capricornus"@en .
+
+<http://dbpedia.org/resource/Alpha2_Capricorni> a ns1:Star ;
+    rdfs:label "Alpha2 Capricorni"@en ;
+    ns1:description "star in the constellation Capricornus"@en .
+
+<http://dbpedia.org/resource/Alpha_Lyncis> a ns1:Star ;
+    rdfs:label "Alpha Lyncis"@en ;
+    ns1:description "Star that located in Lynx constellation"@en .
+
+<http://dbpedia.org/resource/Andromeda_(constellation)> a ns1:Constellation ;
+    rdfs:label "Andromeda (constellation)"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Antlia> a ns1:Constellation ;
+    rdfs:label "Antlia"@en ;
+    ns1:description "constellation in the Southern Celestial Hemisphere"@en .
+
+<http://dbpedia.org/resource/Apus> a ns1:Constellation ;
+    rdfs:label "Apus"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Aquarius_(constellation)> a ns1:Constellation ;
+    rdfs:label "Aquarius (constellation)"@en ;
+    ns1:description "zodiac constellation straddling the celestial equator"@en .
+
+<http://dbpedia.org/resource/Aquila_(constellation)> a ns1:Constellation ;
+    rdfs:label "Aquila (constellation)"@en ;
+    ns1:description "constellation on the celestial equator"@en .
+
+<http://dbpedia.org/resource/Ara_(constellation)> a ns1:Constellation ;
+    rdfs:label "Ara (constellation)"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Argo_Navis> a ns1:Constellation ;
+    rdfs:label "Argo Navis"@en ;
+    ns1:description "former constellation"@en .
+
+<http://dbpedia.org/resource/Aries_(constellation)> a ns1:Constellation ;
+    rdfs:label "Aries (constellation)"@en ;
+    ns1:description "zodiac constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Arp_87> a ns1:Galaxy ;
+    rdfs:label "Arp 87"@en ;
+    ns1:description "interacting galaxy"@en .
+
+<http://dbpedia.org/resource/Auriga> a ns1:Constellation ;
+    rdfs:label "Auriga"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Beta_Scuti> a ns1:Star ;
+    rdfs:label "Beta Scuti"@en ;
+    ns1:description "star in the constellation Scutum"@en .
+
+<http://dbpedia.org/resource/Boötes> a ns1:Constellation ;
+    rdfs:label "Boötes"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/CD-73°375> a ns1:Star ;
+    rdfs:label "CD-73°375"@en,
+        "CD−73°375"@en ;
+    ns1:description "binary star in the constellation Volans"@en .
+
+<http://dbpedia.org/resource/CWISEP_J1935-1546> a ns1:Star ;
+    rdfs:label "CWISEP J1935-1546"@en,
+        "CWISEP J1935−1546"@en ;
+    ns1:description "cold brown dwarf in the constellation Sagittarius"@en .
+
+<http://dbpedia.org/resource/CWISE_J0506+0738> a ns1:Star ;
+    rdfs:label "CWISE J0506+0738"@en ;
+    ns1:description "young substellar object"@en .
+
+<http://dbpedia.org/resource/CWISE_J1055+5443> a ns1:Star ;
+    rdfs:label "CWISE J1055+5443"@en ;
+    ns1:description "exoplanet in the constellation Ursa Major"@en .
+
+<http://dbpedia.org/resource/Caelum> a ns1:Constellation ;
+    rdfs:label "Caelum"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Camelopardalis> a ns1:Constellation ;
+    rdfs:label "Camelopardalis"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Cancer_(constellation)> a ns1:Constellation ;
+    rdfs:label "Cancer (constellation)"@en ;
+    ns1:description "zodiac constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Canes_Venatici> a ns1:Constellation ;
+    rdfs:label "Canes Venatici"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Canis_Major> a ns1:Constellation ;
+    rdfs:label "Canis Major"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Canis_Minor> a ns1:Constellation ;
+    rdfs:label "Canis Minor"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Capricornus> a ns1:Constellation ;
+    rdfs:label "Capricornus"@en ;
+    ns1:description "zodiac constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Carina_(constellation)> a ns1:Constellation ;
+    rdfs:label "Carina (constellation)"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Cassiopeia_(constellation)> a ns1:Constellation ;
+    rdfs:label "Cassiopeia (constellation)"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Centaurus> a ns1:Constellation ;
+    rdfs:label "Centaurus"@en ;
+    ns1:description "stellar constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Cepheus_(constellation)> a ns1:Constellation ;
+    rdfs:label "Cepheus (constellation)"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Cetus> a ns1:Constellation ;
+    rdfs:label "Cetus"@en ;
+    ns1:description "constellation straddling the celestial equator"@en .
+
+<http://dbpedia.org/resource/Chamaeleon> a ns1:Constellation ;
+    rdfs:label "Chamaeleon"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Chi_Centauri> a ns1:Star ;
+    rdfs:label "Chi Centauri"@en ;
+    ns1:description "star in the constellation Centaurus"@en .
+
+<http://dbpedia.org/resource/Circinus> a ns1:Constellation ;
+    rdfs:label "Circinus"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Circinus_X-1> a ns1:Star ;
+    rdfs:label "Circinus X-1"@en ;
+    ns1:description "binary star in the constellation Circinus"@en .
+
+<http://dbpedia.org/resource/CoRoT-1> a ns1:Star ;
+    rdfs:label "CoRoT-1"@en ;
+    ns1:description "star in the constellation Monoceros"@en .
+
+<http://dbpedia.org/resource/CoRoT-2> a ns1:Star ;
+    rdfs:label "CoRoT-2"@en ;
+    ns1:description "star in the constellation Aquila"@en .
+
+<http://dbpedia.org/resource/CoRoT-25b> a ns1:Planet ;
+    rdfs:label "CoRoT-25b"@en ;
+    ns1:description "exoplanet orbiting CoRoT-25"@en .
+
+<http://dbpedia.org/resource/CoRoT-26b> a ns1:Planet ;
+    rdfs:label "CoRoT-26b"@en ;
+    ns1:description "exoplanet in the constellation Ophiuchus"@en .
+
+<http://dbpedia.org/resource/CoRoT-7b> a ns1:Planet ;
+    rdfs:label "CoRoT-7b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/CoRoT-9b> a ns1:Planet ;
+    rdfs:label "CoRoT-9b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/Columba_(constellation)> a ns1:Constellation ;
+    rdfs:label "Columba (constellation)"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Coma_Berenices> a ns1:Constellation ;
+    rdfs:label "Coma Berenices"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Corona_Australis> a ns1:Constellation ;
+    rdfs:label "Corona Australis"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Corona_Borealis> a ns1:Constellation ;
+    rdfs:label "Corona Borealis"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Corvus_(constellation)> a ns1:Constellation ;
+    rdfs:label "Corvus (constellation)"@en ;
+    ns1:description "constellation in the Southern Celestial Hemisphere"@en .
+
+<http://dbpedia.org/resource/Crater_(constellation)> a ns1:Constellation ;
+    rdfs:label "Crater (constellation)"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Crux> a ns1:Constellation ;
+    rdfs:label "Crux"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Cygnus_(constellation)> a ns1:Constellation ;
+    rdfs:label "Cygnus (constellation)"@en ;
+    ns1:description "constellation"@en .
+
+<http://dbpedia.org/resource/Delphinus> a ns1:Constellation ;
+    rdfs:label "Delphinus"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Delta_Aquilae> a ns1:Star ;
+    rdfs:label "Delta Aquilae"@en ;
+    ns1:description "star in the constellation Aquila"@en .
+
+<http://dbpedia.org/resource/Delta_Centauri> a ns1:Star ;
+    rdfs:label "Delta Centauri"@en ;
+    ns1:description "star in the constellation Centaurus"@en .
+
+<http://dbpedia.org/resource/Delta_Pavonis> a ns1:Star ;
+    rdfs:label "Delta Pavonis"@en ;
+    ns1:description "star in the constellation Pavo"@en .
+
+<http://dbpedia.org/resource/Dorado> a ns1:Constellation ;
+    rdfs:label "Dorado"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Draco_(constellation)> a ns1:Constellation ;
+    rdfs:label "Draco (constellation)"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/EBLM_J0555-57> a ns1:Star ;
+    rdfs:label "EBLM J0555-57"@en,
+        "EBLM J0555−57"@en ;
+    ns1:description "triple star system approximately 600 light-years from Earth"@en .
+
+<http://dbpedia.org/resource/EC_11507-2253> a ns1:Star ;
+    rdfs:label "EC 11507-2253"@en,
+        "EC 11507−2253"@en ;
+    ns1:description "star in the constellation Corvus"@en .
+
+<http://dbpedia.org/resource/EZ_Aquarii> a ns1:Star ;
+    rdfs:label "EZ Aquarii"@en ;
+    ns1:description "star in the constellation Aquarius"@en .
+
+<http://dbpedia.org/resource/Epsilon1_Arae> a ns1:Star ;
+    rdfs:label "Epsilon1 Arae"@en ;
+    ns1:description "star in the constellation Ara"@en .
+
+<http://dbpedia.org/resource/Epsilon_Tauri> a ns1:Star ;
+    rdfs:label "Epsilon Tauri"@en ;
+    ns1:description "star in the constellation Taurus"@en .
+
+<http://dbpedia.org/resource/Epsilon_Volantis> a ns1:Star ;
+    rdfs:label "Epsilon Volantis"@en ;
+    ns1:description "multiple star"@en .
+
+<http://dbpedia.org/resource/Equuleus> a ns1:Constellation ;
+    rdfs:label "Equuleus"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Eridanus_(constellation)> a ns1:Constellation ;
+    rdfs:label "Eridanus (constellation)"@en ;
+    ns1:description "constellation in the southern hemisphere"@en .
+
+<http://dbpedia.org/resource/Fornax> a ns1:Constellation ;
+    rdfs:label "Fornax"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/GALEX_J2339–0424> a ns1:Star ;
+    rdfs:label "GALEX J2339–0424"@en,
+        "GALEX J2339−0424"@en ;
+    ns1:description "GALEX J2339–0424 is a white dwarf in the constellation Aquarius"@en .
+
+<http://dbpedia.org/resource/GD_61> a ns1:Star ;
+    rdfs:label "GD 61"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/GI_Tauri_and_GK_Tauri> a ns1:Star ;
+    rdfs:label "GI Tauri and GK Tauri"@en ;
+    ns1:description "young binary star system"@en .
+
+<http://dbpedia.org/resource/GJ_1128> a ns1:Star ;
+    rdfs:label "GJ 1128"@en ;
+    ns1:description "dwarf star"@en .
+
+<http://dbpedia.org/resource/GJ_4256_b> a ns1:Planet ;
+    rdfs:label "GJ 4256 b"@en ;
+    ns1:description "earth-sized exoplanet falling into a star"@en .
+
+<http://dbpedia.org/resource/GQ_Lupi> a ns1:Star ;
+    rdfs:label "GQ Lupi"@en ;
+    ns1:description "wide binary system in the Lupus constellation"@en .
+
+<http://dbpedia.org/resource/GRO_J1719-24> a ns1:Star ;
+    rdfs:label "GRO J1719-24"@en,
+        "GRO J1719−24"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/GSC_03089-00929> a ns1:Star ;
+    rdfs:label "GSC 03089-00929"@en ;
+    ns1:description "star in the constellation Hercules"@en .
+
+<http://dbpedia.org/resource/GSC_03549-02811> a ns1:Star ;
+    rdfs:label "GSC 03549-02811"@en,
+        "TrES-2A"@en ;
+    ns1:description "star in the constellation Draco"@en .
+
+<http://dbpedia.org/resource/GX_339-4> a ns1:Star ;
+    rdfs:label "GX 339-4"@en,
+        "GX 339−4"@en ;
+    ns1:description "star in the constellation Ara"@en .
+
+<http://dbpedia.org/resource/Gamma1_Leonis_b> a ns1:Planet ;
+    rdfs:label "Gamma1 Leonis b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/Gamma_Pegasi> a ns1:Star ;
+    rdfs:label "Algenib"@en,
+        "Gamma Pegasi"@en ;
+    ns1:description "variable star in the constellation Pegasus"@en .
+
+<http://dbpedia.org/resource/Gemini_(constellation)> a ns1:Constellation ;
+    rdfs:label "Gemini (constellation)"@en ;
+    ns1:description "zodiac constellation in the northern hemisphere"@en .
+
+<http://dbpedia.org/resource/Gliese_163> a ns1:Star ;
+    rdfs:label "Gliese 163"@en ;
+    ns1:description "red dwarf star of the constellation Dorado"@en .
+
+<http://dbpedia.org/resource/Gliese_163_c> a ns1:Planet ;
+    rdfs:label "Gliese 163 c"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/Gliese_176_b> a ns1:Planet ;
+    rdfs:label "Gliese 176 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/Gliese_318> a ns1:Star ;
+    rdfs:label "Gliese 318"@en ;
+    ns1:description "white dwarf in the constellation Pyxis"@en .
+
+<http://dbpedia.org/resource/Gliese_408> a ns1:Star ;
+    rdfs:label "Gliese 408"@en ;
+    ns1:description "star in the constellation Leo"@en .
+
+<http://dbpedia.org/resource/Gliese_440> a ns1:Star ;
+    rdfs:label "Gliese 440"@en ;
+    ns1:description "star in the constellation Musca"@en .
+
+<http://dbpedia.org/resource/Gliese_625> a ns1:Star ;
+    rdfs:label "Gliese 625"@en ;
+    ns1:description "red dwarf in constellation of Draco"@en .
+
+<http://dbpedia.org/resource/Gliese_667_Cc> a ns1:Planet ;
+    rdfs:label "Gliese 667 Cc"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/Gliese_686> a ns1:Star ;
+    rdfs:label "Gliese 686"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/Gliese_829> a ns1:Star ;
+    rdfs:label "Gliese 829"@en ;
+    ns1:description "star system in the constellation Pegasus"@en .
+
+<http://dbpedia.org/resource/Gliese_832_b> a ns1:Planet ;
+    rdfs:label "Gliese 832 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/Gliese_877> a ns1:Star ;
+    rdfs:label "Gliese 877"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/Gliese_880> a ns1:Star ;
+    rdfs:label "Gliese 880"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/Gomez's_Hamburger> a ns1:Star ;
+    rdfs:label "Gomez's Hamburger"@en ;
+    ns1:description "pre-main-sequence star surrounded by a dense protoplanetary disk"@en .
+
+<http://dbpedia.org/resource/Grus_(constellation)> a ns1:Constellation ;
+    rdfs:label "Grus (constellation)"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/HAT-P-24b> a ns1:Planet ;
+    rdfs:label "HAT-P-24b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HAT-P-3b> a ns1:Planet ;
+    rdfs:label "HAT-P-3b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HAT-P-5b> a ns1:Planet ;
+    rdfs:label "HAT-P-5b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HAT-P-6b> a ns1:Planet ;
+    rdfs:label "HAT-P-6b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HAT-P-8> a ns1:Star ;
+    rdfs:label "HAT-P-8"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/HD_1> a ns1:Star ;
+    rdfs:label "HD 1"@en ;
+    ns1:description "binary star in the constellation Cepheus"@en .
+
+<http://dbpedia.org/resource/HD_102272> a ns1:Star ;
+    rdfs:label "HD 102272"@en,
+        "HD 102272 b"@en,
+        "HD 102272 c"@en ;
+    ns1:description "star in the constellation Leo"@en .
+
+<http://dbpedia.org/resource/HD_125612> a ns1:Star ;
+    rdfs:label "HD 125612"@en ;
+    ns1:description "star in the constellation Virgo"@en .
+
+<http://dbpedia.org/resource/HD_125612_b> a ns1:Planet ;
+    rdfs:label "HD 125612 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_12661_b> a ns1:Planet ;
+    rdfs:label "HD 12661 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_130144> a ns1:Star ;
+    rdfs:label "HD 130144"@en ;
+    ns1:description "star in the constellation Boötes"@en .
+
+<http://dbpedia.org/resource/HD_147506> a ns1:Star ;
+    rdfs:label "HD 147506"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/HD_149989> a ns1:Star ;
+    rdfs:label "HD 149989"@en ;
+    ns1:description "star in the constellation Ara"@en .
+
+<http://dbpedia.org/resource/HD_156668_b> a ns1:Planet ;
+    rdfs:label "HD 156668 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_164604_b> a ns1:Planet ;
+    rdfs:label "HD 164604 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_175541_b> a ns1:Planet ;
+    rdfs:label "HD 175541 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_181433_d> a ns1:Planet ;
+    rdfs:label "HD 181433 d"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_18438_b> a ns1:Planet ;
+    rdfs:label "HD 18438 b"@en ;
+    ns1:description "exoplanet in the constellation Cepheus"@en .
+
+<http://dbpedia.org/resource/HD_187123> a ns1:Star ;
+    rdfs:label "HD 187123"@en ;
+    ns1:description "star in the constellation Cygnus"@en .
+
+<http://dbpedia.org/resource/HD_187123_b> a ns1:Planet ;
+    rdfs:label "HD 187123 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_187123_c> a ns1:Planet ;
+    rdfs:label "HD 187123 c"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_190984_b> a ns1:Planet ;
+    rdfs:label "HD 190984 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_2039_b> a ns1:Planet ;
+    rdfs:label "HD 2039 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_204313> a ns1:Star ;
+    rdfs:label "HD 204313"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/HD_205739_b> a ns1:Planet ;
+    rdfs:label "HD 205739 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_215497> a ns1:Star ;
+    rdfs:label "HD 215497"@en ;
+    ns1:description "star in the constellation Tucana"@en .
+
+<http://dbpedia.org/resource/HD_24040_b> a ns1:Planet ;
+    rdfs:label "HD 24040 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_27631_b> a ns1:Planet ;
+    rdfs:label "HD 27631 b"@en ;
+    ns1:description "extrasolar planet orbiting HD 27631"@en .
+
+<http://dbpedia.org/resource/HD_28254_b> a ns1:Planet ;
+    rdfs:label "HD 28254 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_290327_b> a ns1:Planet ;
+    rdfs:label "HD 290327 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_29697> a ns1:Star ;
+    rdfs:label "HD 29697"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/HD_30562> a ns1:Star ;
+    rdfs:label "HD 30562"@en ;
+    ns1:description "star in the constellation Eridanus"@en .
+
+<http://dbpedia.org/resource/HD_30562_b> a ns1:Planet ;
+    rdfs:label "HD 30562 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_32518> a ns1:Star ;
+    rdfs:label "HD 32518"@en ;
+    ns1:description "star in the constellation Camelopardalis"@en .
+
+<http://dbpedia.org/resource/HD_38283_b> a ns1:Planet ;
+    rdfs:label "HD 38283 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_39194> a ns1:Star ;
+    rdfs:label "HD 39194"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/HD_40307_e> a ns1:Planet ;
+    rdfs:label "HD 40307 e"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_40307_f> a ns1:Planet ;
+    rdfs:label "HD 40307 f"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_4208> a ns1:Star ;
+    rdfs:label "HD 4208"@en ;
+    ns1:description "star in the constellation Sculptor"@en .
+
+<http://dbpedia.org/resource/HD_43197_b> a ns1:Planet ;
+    rdfs:label "HD 43197 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_52265_b> a ns1:Planet ;
+    rdfs:label "HD 52265 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_5388> a ns1:Star ;
+    rdfs:label "HD 5388"@en ;
+    ns1:description "star in the constellation Phoenix"@en .
+
+<http://dbpedia.org/resource/HD_60532_b> a ns1:Planet ;
+    rdfs:label "HD 60532 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_6434> a ns1:Star ;
+    rdfs:label "HD 6434"@en ;
+    ns1:description "star in the constellation Phoenix"@en .
+
+<http://dbpedia.org/resource/HD_6434_b> a ns1:Planet ;
+    rdfs:label "HD 6434 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_68988_c> a ns1:Planet ;
+    rdfs:label "HD 68988 c"@en ;
+    ns1:description "extrasolar planet in the constellation Ursa Major"@en .
+
+<http://dbpedia.org/resource/HD_69830_d> a ns1:Planet ;
+    rdfs:label "HD 69830 d"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_70930> a ns1:Star ;
+    rdfs:label "HD 70930"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/HD_72108> a ns1:Star ;
+    rdfs:label "HD 72108"@en ;
+    ns1:description "star system in the constellation Vela"@en .
+
+<http://dbpedia.org/resource/HD_73534_b> a ns1:Planet ;
+    rdfs:label "HD 73534 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_74272> a ns1:Star ;
+    rdfs:label "HD 74272"@en ;
+    ns1:description "star in the constellation Vela"@en .
+
+<http://dbpedia.org/resource/HD_75063> a ns1:Star ;
+    rdfs:label "HD 75063"@en ;
+    ns1:description "star in the constellation Vela"@en .
+
+<http://dbpedia.org/resource/HD_75289_b> a ns1:Planet ;
+    rdfs:label "HD 75289 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_76700_b> a ns1:Planet ;
+    rdfs:label "HD 76700 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_8535_b> a ns1:Planet ;
+    rdfs:label "HD 8535 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_8574_b> a ns1:Planet ;
+    rdfs:label "HD 8574 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_86226_b> a ns1:Planet ;
+    rdfs:label "HD 86226 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_86264_b> a ns1:Planet ;
+    rdfs:label "HD 86264 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_87883_b> a ns1:Planet ;
+    rdfs:label "HD 87883 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_88133_b> a ns1:Planet ;
+    rdfs:label "HD 88133 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_88206> a ns1:Star ;
+    rdfs:label "HD 88206"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/HD_88955> a ns1:Star ;
+    rdfs:label "HD 88955"@en ;
+    ns1:description "star in the constellation Vela"@en .
+
+<http://dbpedia.org/resource/HD_89307_b> a ns1:Planet ;
+    rdfs:label "HD 89307 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_89744_b> a ns1:Planet ;
+    rdfs:label "HD 89744 b"@en ;
+    ns1:description "exoplanet"@en .
+
+<http://dbpedia.org/resource/HD_92788_b> a ns1:Planet ;
+    rdfs:label "HD 92788 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HD_9578> a ns1:Star ;
+    rdfs:label "HD 9578"@en ;
+    ns1:description "star in the constellation Sculptor"@en .
+
+<http://dbpedia.org/resource/HD_96167> a ns1:Star ;
+    rdfs:label "HD 96167"@en ;
+    ns1:description "star in the constellation Crater"@en .
+
+<http://dbpedia.org/resource/HE_0437-5439> a ns1:Star ;
+    rdfs:label "HE 0437-5439"@en,
+        "HE 0437−5439"@en ;
+    ns1:description "hypervelocity star in the constellation Dorado"@en .
+
+<http://dbpedia.org/resource/HIP_57274_d> a ns1:Planet ;
+    rdfs:label "HIP 57274 d"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HIP_67522_b> a ns1:Planet ;
+    rdfs:label "HIP 67522 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HIP_79431_b> a ns1:Planet ;
+    rdfs:label "HIP 79431 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/HR_3407> a ns1:Star ;
+    rdfs:label "HR 3407"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/Hercules_(constellation)> a ns1:Constellation ;
+    rdfs:label "Hercules (constellation)"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Horologium_(constellation)> a ns1:Constellation ;
+    rdfs:label "Horologium (constellation)"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Hydra_(constellation)> a ns1:Constellation ;
+    rdfs:label "Hydra (constellation)"@en ;
+    ns1:description "constellation straddling the celestial equator"@en .
+
+<http://dbpedia.org/resource/Hydrus> a ns1:Constellation ;
+    rdfs:label "Hydrus"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/IC_755> a ns1:Galaxy ;
+    rdfs:label "IC 755"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/II_Zwicky_28> a ns1:Galaxy ;
+    rdfs:label "II Zwicky 28"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/IK_Pegasi> a ns1:Star ;
+    rdfs:label "IK Pegasi"@en ;
+    ns1:description "variable star in the constellation Pegasus"@en .
+
+<http://dbpedia.org/resource/IOK-1> a ns1:Galaxy ;
+    rdfs:label "IOK-1"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/IQ_Aurigae> a ns1:Star ;
+    rdfs:label "IQ Aurigae"@en ;
+    ns1:description "variable star in the constellation Auriga"@en .
+
+<http://dbpedia.org/resource/IRAS_01003-2238> a ns1:Galaxy ;
+    rdfs:label "IRAS 01003-2238"@en,
+        "IRAS 01003−2238"@en ;
+    ns1:description "Seyfert 2 galaxy in the constellation Cetus"@en .
+
+<http://dbpedia.org/resource/IRAS_05189-2524> a ns1:Galaxy ;
+    rdfs:label "IRAS 05189-2524"@en,
+        "IRAS 05189−2524"@en ;
+    ns1:description "Seyfert 2 galaxy in the constellation Lepus"@en .
+
+<http://dbpedia.org/resource/IRAS_05280–6910> a ns1:Star ;
+    rdfs:label "IRAS 05280–6910"@en,
+        "IRAS 05280−6910"@en ;
+    ns1:description "red supergiant star in the Large Magellanic Cloud"@en .
+
+<http://dbpedia.org/resource/IRAS_06076-2139> a ns1:Galaxy ;
+    rdfs:label "IRAS 06076-2139"@en,
+        "IRAS 06076−2139"@en ;
+    ns1:description "emission-line galaxy in the constellation Lepus"@en .
+
+<http://dbpedia.org/resource/IRAS_13224-3809> a ns1:Galaxy ;
+    rdfs:label "IRAS 13224-3809"@en,
+        "IRAS 13224−3809"@en ;
+    ns1:description "galaxy containing well-studied supermassive black hole"@en .
+
+<http://dbpedia.org/resource/IRAS_14348-1447> a ns1:Galaxy ;
+    rdfs:label "IRAS 14348-1447"@en,
+        "IRAS 14348−1447"@en ;
+    ns1:description "galaxy in the constellation Libra"@en .
+
+<http://dbpedia.org/resource/IRAS_18357–0604> a ns1:Star ;
+    rdfs:label "IRAS 18357–0604"@en,
+        "IRAS 18357−0604"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/IRAS_19254-7245> a ns1:Galaxy ;
+    rdfs:label "IRAS 19254-7245"@en,
+        "IRAS 19254−7245"@en ;
+    ns1:description "Seyfert 2 galaxy in the constellation Pavo"@en .
+
+<http://dbpedia.org/resource/Indus_(constellation)> a ns1:Constellation ;
+    rdfs:label "Indus (constellation)"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Iota_Pegasi> a ns1:Star ;
+    rdfs:label "Iota Pegasi"@en ;
+    ns1:description "star in the constellation Pegasus"@en .
+
+<http://dbpedia.org/resource/J2345-0449> a ns1:Galaxy ;
+    rdfs:label "J2345-0449"@en,
+        "J2345−0449"@en ;
+    ns1:description "galaxy in the constellation Aquarius"@en .
+
+<http://dbpedia.org/resource/JADES-GS-z7-01-QU> a ns1:Galaxy ;
+    rdfs:label "JADES-GS-z7-01-QU"@en ;
+    ns1:description "galaxy in the constellation Fornax"@en .
+
+<http://dbpedia.org/resource/K2-415b> a ns1:Planet ;
+    rdfs:label "K2-415b"@en ;
+    ns1:description "earth-sized exoplanet"@en .
+
+<http://dbpedia.org/resource/KIDS_J232940-34092> a ns1:Galaxy ;
+    rdfs:label "KIDS J232940-34092"@en,
+        "KIDS J232940−34092"@en ;
+    ns1:description "galaxy in the constellation Pisces"@en .
+
+<http://dbpedia.org/resource/KMT-2022-BLG-0440L_b> a ns1:Planet ;
+    rdfs:label "KMT-2022-BLG-0440L b"@en ;
+    ns1:description "neptune-like exoplanet"@en .
+
+<http://dbpedia.org/resource/Kepler-11e> a ns1:Planet ;
+    rdfs:label "Kepler-11e"@en ;
+    ns1:description "extrasolar planet orbiting Kepler-11"@en .
+
+<http://dbpedia.org/resource/Kepler-124b> a ns1:Planet ;
+    rdfs:label "Kepler-124b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/Kepler-277b> a ns1:Planet ;
+    rdfs:label "Kepler-277b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/Kepler-277c> a ns1:Planet ;
+    rdfs:label "Kepler-277c"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/Kepler-34> a ns1:Star ;
+    rdfs:label "Kepler-34"@en ;
+    ns1:description "binary star"@en .
+
+<http://dbpedia.org/resource/Kepler-47c> a ns1:Planet ;
+    rdfs:label "Kepler-47c"@en ;
+    ns1:description "extrasolar planet orbiting the circumbinary system Kepler-47"@en .
+
+<http://dbpedia.org/resource/Kepler-68d> a ns1:Planet ;
+    rdfs:label "Kepler-68d"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/LHS_1815_b> a ns1:Planet ;
+    rdfs:label "LHS 1815 b"@en .
+
+<http://dbpedia.org/resource/LHS_3154_b> a ns1:Planet ;
+    rdfs:label "LHS 3154 b"@en ;
+    ns1:description "exoplanet in the constellation Hercules"@en .
+
+<http://dbpedia.org/resource/Lacerta> a ns1:Constellation ;
+    rdfs:label "Lacerta"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Lambda_Crucis> a ns1:Star ;
+    rdfs:label "Lambda Crucis"@en ;
+    ns1:description "star in the constellation Crux"@en .
+
+<http://dbpedia.org/resource/Leo_(constellation)> a ns1:Constellation ;
+    rdfs:label "Leo (constellation)"@en ;
+    ns1:description "zodiac constellation passing through the celestial equator"@en .
+
+<http://dbpedia.org/resource/Leo_Minor> a ns1:Constellation ;
+    rdfs:label "Leo Minor"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Lepus_(constellation)> a ns1:Constellation ;
+    rdfs:label "Lepus (constellation)"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Libra_(constellation)> a ns1:Constellation ;
+    rdfs:label "Libra (constellation)"@en ;
+    ns1:description "zodiac constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Lupus_(constellation)> a ns1:Constellation ;
+    rdfs:label "Lupus (constellation)"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Lynx_(constellation)> a ns1:Constellation ;
+    rdfs:label "Lynx (constellation)"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Lyra> a ns1:Constellation ;
+    rdfs:label "Lyra"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/MACS0647-JD> a ns1:Galaxy ;
+    rdfs:label "MACS0647-JD"@en ;
+    ns1:description "The farthest known galaxy from the Earth"@en .
+
+<http://dbpedia.org/resource/MACS1149-JD1> a ns1:Galaxy ;
+    rdfs:label "MACS1149-JD1"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/MOA-2008-BLG-310L> a ns1:Star ;
+    rdfs:label "MOA-2008-BLG-310L"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/MOA-2009-BLG-387Lb> a ns1:Planet ;
+    rdfs:label "MOA-2009-BLG-387Lb"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/MRC_0316-257> a ns1:Galaxy ;
+    rdfs:label "MRC 0316-257"@en,
+        "MRC 0316−257"@en ;
+    ns1:description "radio galaxy in the constellation Fornax"@en .
+
+<http://dbpedia.org/resource/MRC_0406-244> a ns1:Galaxy ;
+    rdfs:label "MRC 0406-244"@en,
+        "MRC 0406−244"@en ;
+    ns1:description "Seyfert 2 galaxy in the constellation Eridanus"@en .
+
+<http://dbpedia.org/resource/MRC_1138-262> a ns1:Galaxy ;
+    rdfs:label "MRC 1138-262"@en,
+        "MRC 1138−262"@en ;
+    ns1:description "irregular galaxy in the constellation Hydra"@en .
+
+<http://dbpedia.org/resource/MRC_2011-298> a ns1:Galaxy ;
+    rdfs:label "MRC 2011-298"@en,
+        "MRC 2011−298"@en ;
+    ns1:description "brightest cluster galaxy in the constellation Sagittarius"@en .
+
+<http://dbpedia.org/resource/Mensa_(constellation)> a ns1:Constellation ;
+    rdfs:label "Mensa (constellation)"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Microscopium> a ns1:Constellation ;
+    rdfs:label "Microscopium"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Monoceros> a ns1:Constellation ;
+    rdfs:label "Monoceros"@en ;
+    ns1:description "faint constellation on the celestial equator"@en .
+
+<http://dbpedia.org/resource/Mu_Serpentis> a ns1:Star ;
+    rdfs:label "Mu Serpentis"@en ;
+    ns1:description "star in the constellation Serpens"@en .
+
+<http://dbpedia.org/resource/Musca> a ns1:Constellation ;
+    rdfs:label "Musca"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/NGC_1001> a ns1:Galaxy ;
+    rdfs:label "NGC 1001"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_1023> a ns1:Galaxy ;
+    rdfs:label "NGC 1023"@en ;
+    ns1:description "barred spiral galaxy in the constellation Perseus"@en .
+
+<http://dbpedia.org/resource/NGC_1427> a ns1:Galaxy ;
+    rdfs:label "NGC 1427"@en ;
+    ns1:description "elliptical galaxy in the Fornax Cluster"@en .
+
+<http://dbpedia.org/resource/NGC_1460> a ns1:Galaxy ;
+    rdfs:label "NGC 1460"@en ;
+    ns1:description "spiral galaxy of the Fornax Cluster"@en .
+
+<http://dbpedia.org/resource/NGC_166> a ns1:Galaxy ;
+    rdfs:label "NGC 166"@en ;
+    ns1:description "spiral galaxy in the constellation Cetus"@en .
+
+<http://dbpedia.org/resource/NGC_1744> a ns1:Galaxy ;
+    rdfs:label "NGC 1744"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_177> a ns1:Galaxy ;
+    rdfs:label "NGC 177"@en ;
+    ns1:description "galaxy in the constellation Cetus"@en .
+
+<http://dbpedia.org/resource/NGC_1998> a ns1:Galaxy ;
+    rdfs:label "NGC 1998"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_2100> a ns1:Galaxy ;
+    rdfs:label "NGC 2100"@en ;
+    ns1:description "star cluster"@en .
+
+<http://dbpedia.org/resource/NGC_227> a ns1:Galaxy ;
+    rdfs:label "NGC 227"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_229> a ns1:Galaxy ;
+    rdfs:label "NGC 229"@en ;
+    ns1:description "spiral galaxy in the constellation Andromeda"@en .
+
+<http://dbpedia.org/resource/NGC_259> a ns1:Galaxy ;
+    rdfs:label "NGC 259"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_2927> a ns1:Galaxy ;
+    rdfs:label "NGC 2927"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_2935> a ns1:Galaxy ;
+    rdfs:label "NGC 2935"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_2936> a ns1:Galaxy ;
+    rdfs:label "NGC 2936"@en ;
+    ns1:description "spiral galaxy in the constellation Hydra"@en .
+
+<http://dbpedia.org/resource/NGC_2937> a ns1:Galaxy ;
+    rdfs:label "NGC 2937"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_2959> a ns1:Galaxy ;
+    rdfs:label "NGC 2959"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_2962> a ns1:Galaxy ;
+    rdfs:label "NGC 2962"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_2964> a ns1:Galaxy ;
+    rdfs:label "NGC 2964"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_2974> a ns1:Galaxy ;
+    rdfs:label "NGC 2974"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_2992> a ns1:Galaxy ;
+    rdfs:label "NGC 2992"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_2998> a ns1:Galaxy ;
+    rdfs:label "NGC 2998"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3000> a ns1:Galaxy ;
+    rdfs:label "NGC 3000"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3001> a ns1:Galaxy ;
+    rdfs:label "NGC 3001"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3003> a ns1:Galaxy ;
+    rdfs:label "NGC 3003"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3005> a ns1:Galaxy ;
+    rdfs:label "NGC 3005"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3006> a ns1:Galaxy ;
+    rdfs:label "NGC 3006"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3007> a ns1:Galaxy ;
+    rdfs:label "NGC 3007"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3008> a ns1:Galaxy ;
+    rdfs:label "NGC 3008"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3009> a ns1:Galaxy ;
+    rdfs:label "NGC 3009"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3041> a ns1:Galaxy ;
+    rdfs:label "NGC 3041"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3044> a ns1:Galaxy ;
+    rdfs:label "NGC 3044"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3049> a ns1:Galaxy ;
+    rdfs:label "NGC 3049"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3059> a ns1:Galaxy ;
+    rdfs:label "NGC 3059"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3073> a ns1:Galaxy ;
+    rdfs:label "NGC 3073"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3087> a ns1:Galaxy ;
+    rdfs:label "NGC 3087"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3110> a ns1:Galaxy ;
+    rdfs:label "NGC 3110"@en ;
+    ns1:description "spiral galaxy in the constellation Sextans"@en .
+
+<http://dbpedia.org/resource/NGC_3124> a ns1:Galaxy ;
+    rdfs:label "NGC 3124"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3125> a ns1:Galaxy ;
+    rdfs:label "NGC 3125"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3137> a ns1:Galaxy ;
+    rdfs:label "NGC 3137"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3156> a ns1:Galaxy ;
+    rdfs:label "NGC 3156"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3166> a ns1:Galaxy ;
+    rdfs:label "NGC 3166"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3177> a ns1:Galaxy ;
+    rdfs:label "NGC 3177"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3182> a ns1:Galaxy ;
+    rdfs:label "NGC 3182"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3185> a ns1:Galaxy ;
+    rdfs:label "NGC 3185"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3187> a ns1:Galaxy ;
+    rdfs:label "NGC 3187"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3190> a ns1:Galaxy ;
+    rdfs:label "NGC 3190"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3191> a ns1:Galaxy ;
+    rdfs:label "NGC 3191"@en ;
+    ns1:description "barred spiral galaxy in the constellation Ursa Major"@en .
+
+<http://dbpedia.org/resource/NGC_3193> a ns1:Galaxy ;
+    rdfs:label "NGC 3193"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3198> a ns1:Galaxy ;
+    rdfs:label "NGC 3198"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3200> a ns1:Galaxy ;
+    rdfs:label "NGC 3200"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3206> a ns1:Galaxy ;
+    rdfs:label "NGC 3206"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3223> a ns1:Galaxy ;
+    rdfs:label "NGC 3223"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3226> a ns1:Galaxy ;
+    rdfs:label "NGC 3226"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3227> a ns1:Galaxy ;
+    rdfs:label "NGC 3227"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3244> a ns1:Galaxy ;
+    rdfs:label "NGC 3244"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3245> a ns1:Galaxy ;
+    rdfs:label "NGC 3245"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3254> a ns1:Galaxy ;
+    rdfs:label "NGC 3254"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3256> a ns1:Galaxy ;
+    rdfs:label "NGC 3256"@en ;
+    ns1:description "interacting galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3258> a ns1:Galaxy ;
+    rdfs:label "NGC 3258"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3261> a ns1:Galaxy ;
+    rdfs:label "NGC 3261"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3267> a ns1:Galaxy ;
+    rdfs:label "NGC 3267"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3269> a ns1:Galaxy ;
+    rdfs:label "NGC 3269"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3271> a ns1:Galaxy ;
+    rdfs:label "NGC 3271"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3274> a ns1:Galaxy ;
+    rdfs:label "NGC 3274"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3285> a ns1:Galaxy ;
+    rdfs:label "NGC 3285"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3290> a ns1:Galaxy ;
+    rdfs:label "NGC 3290"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3294> a ns1:Galaxy ;
+    rdfs:label "NGC 3294"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3301> a ns1:Galaxy ;
+    rdfs:label "NGC 3301"@en ;
+    ns1:description "lenticular galaxy in the constellation Leo"@en .
+
+<http://dbpedia.org/resource/NGC_3302> a ns1:Galaxy ;
+    rdfs:label "NGC 3302"@en ;
+    ns1:description "lenticular galaxy in the constellation Antlia"@en .
+
+<http://dbpedia.org/resource/NGC_3305> a ns1:Galaxy ;
+    rdfs:label "NGC 3305"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3307> a ns1:Galaxy ;
+    rdfs:label "NGC 3307"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3308> a ns1:Galaxy ;
+    rdfs:label "NGC 3308"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3309> a ns1:Galaxy ;
+    rdfs:label "NGC 3309"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3311> a ns1:Galaxy ;
+    rdfs:label "NGC 3311"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3312> a ns1:Galaxy ;
+    rdfs:label "NGC 3312"@en ;
+    ns1:description "spiral galaxy in the constellation Hydra"@en .
+
+<http://dbpedia.org/resource/NGC_3313> a ns1:Galaxy ;
+    rdfs:label "NGC 3313"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3314> a ns1:Galaxy ;
+    rdfs:label "NGC 3314"@en ;
+    ns1:description "galaxy in the constellation Hydra"@en .
+
+<http://dbpedia.org/resource/NGC_3315> a ns1:Galaxy ;
+    rdfs:label "NGC 3315"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_334> a ns1:Galaxy ;
+    rdfs:label "NGC 334"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_355> a ns1:Galaxy ;
+    rdfs:label "NGC 355"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3552> a ns1:Galaxy ;
+    rdfs:label "NGC 3552"@en ;
+    ns1:description "lenticular galaxy in the constellation Ursa Major"@en .
+
+<http://dbpedia.org/resource/NGC_356> a ns1:Galaxy ;
+    rdfs:label "NGC 356"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_365> a ns1:Galaxy ;
+    rdfs:label "NGC 365"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3666> a ns1:Galaxy ;
+    rdfs:label "NGC 3666"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_3738> a ns1:Galaxy ;
+    rdfs:label "NGC 3738"@en ;
+    ns1:description "dwarf galaxy in the constellation Ursa Major"@en .
+
+<http://dbpedia.org/resource/NGC_397> a ns1:Galaxy ;
+    rdfs:label "NGC 397"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_406> a ns1:Galaxy ;
+    rdfs:label "NGC 406"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_409> a ns1:Galaxy ;
+    rdfs:label "NGC 409"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_415> a ns1:Galaxy ;
+    rdfs:label "NGC 415"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_418> a ns1:Galaxy ;
+    rdfs:label "NGC 418"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_4217> a ns1:Galaxy ;
+    rdfs:label "NGC 4217"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_423> a ns1:Galaxy ;
+    rdfs:label "NGC 423"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_424> a ns1:Galaxy ;
+    rdfs:label "NGC 424"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_427> a ns1:Galaxy ;
+    rdfs:label "NGC 427"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_438> a ns1:Galaxy ;
+    rdfs:label "NGC 438"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_441> a ns1:Galaxy ;
+    rdfs:label "NGC 441"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_443> a ns1:Galaxy ;
+    rdfs:label "NGC 443"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_4449> a ns1:Galaxy ;
+    rdfs:label "NGC 4449"@en ;
+    ns1:description "Irregular galaxy in the constellation Canes Venatici"@en .
+
+<http://dbpedia.org/resource/NGC_4450> a ns1:Galaxy ;
+    rdfs:label "NGC 4450"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_448> a ns1:Galaxy ;
+    rdfs:label "NGC 448"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_454> a ns1:Galaxy ;
+    rdfs:label "NGC 454"@en ;
+    ns1:description "interacting pair of galaxies in the constellation Phoenix"@en .
+
+<http://dbpedia.org/resource/NGC_4707> a ns1:Galaxy ;
+    rdfs:label "NGC 4707"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_4709> a ns1:Galaxy ;
+    rdfs:label "NGC 4709"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_4722> a ns1:Galaxy ;
+    rdfs:label "NGC 4722"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_491> a ns1:Galaxy ;
+    rdfs:label "NGC 491"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_5011> a ns1:Galaxy ;
+    rdfs:label "NGC 5011"@en ;
+    ns1:description "elliptical galaxy in the constellation Centaurus"@en .
+
+<http://dbpedia.org/resource/NGC_516> a ns1:Galaxy ;
+    rdfs:label "NGC 516"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_5251> a ns1:Galaxy ;
+    rdfs:label "NGC 5251"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_533> a ns1:Galaxy ;
+    rdfs:label "NGC 533"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_534> a ns1:Galaxy ;
+    rdfs:label "NGC 534"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_536> a ns1:Galaxy ;
+    rdfs:label "NGC 536"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_5474> a ns1:Galaxy ;
+    rdfs:label "NGC 5474"@en ;
+    ns1:description "peculiar galaxy in the constellation Ursa Major"@en .
+
+<http://dbpedia.org/resource/NGC_5584> a ns1:Galaxy ;
+    rdfs:label "NGC 5584"@en ;
+    ns1:description "spiral galaxy in the constellation Virgo"@en .
+
+<http://dbpedia.org/resource/NGC_561> a ns1:Galaxy ;
+    rdfs:label "NGC 561"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_578> a ns1:Galaxy ;
+    rdfs:label "NGC 578"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_5792> a ns1:Galaxy ;
+    rdfs:label "NGC 5792"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_5846> a ns1:Galaxy ;
+    rdfs:label "NGC 5846"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_5857> a ns1:Galaxy ;
+    rdfs:label "NGC 5857"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_694> a ns1:Galaxy ;
+    rdfs:label "NGC 694"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_7010> a ns1:Galaxy ;
+    rdfs:label "NGC 7010"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_7213> a ns1:Galaxy ;
+    rdfs:label "NGC 7213"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_82> a ns1:Star ;
+    rdfs:label "NGC 82"@en ;
+    ns1:description "star in the constellation Andromeda"@en .
+
+<http://dbpedia.org/resource/NGC_839> a ns1:Galaxy ;
+    rdfs:label "NGC 839"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/NGC_87> a ns1:Galaxy ;
+    rdfs:label "NGC 87"@en ;
+    ns1:description "irregular galaxy in the constellation Phoenix"@en .
+
+<http://dbpedia.org/resource/NGC_91> a ns1:Star ;
+    rdfs:label "NGC 91"@en ;
+    ns1:description "star in the constellation Andromeda"@en .
+
+<http://dbpedia.org/resource/NGC_92> a ns1:Galaxy ;
+    rdfs:label "NGC 92"@en ;
+    ns1:description "spiral galaxy in the constellation Phoenix"@en .
+
+<http://dbpedia.org/resource/NGC_95> a ns1:Galaxy ;
+    rdfs:label "NGC 95"@en ;
+    ns1:description "spiral galaxy in the constellation Pisces"@en .
+
+<http://dbpedia.org/resource/Norma_(constellation)> a ns1:Constellation ;
+    rdfs:label "Norma (constellation)"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Nu_Orionis> a ns1:Star ;
+    rdfs:label "Nu Orionis"@en ;
+    ns1:description "star in the constellation Orion"@en .
+
+<http://dbpedia.org/resource/Octans> a ns1:Constellation ;
+    rdfs:label "Octans"@en ;
+    ns1:description "constellation in the southern celestial hemisphere, containing the south celestial pole"@en .
+
+<http://dbpedia.org/resource/Omicron_Leonis> a ns1:Star ;
+    rdfs:label "Omicron Leonis"@en ;
+    ns1:description "multiple star in the constellation Leo"@en .
+
+<http://dbpedia.org/resource/Omicron_Ursae_Majoris> a ns1:Star ;
+    rdfs:label "Omicron Ursae Majoris"@en ;
+    ns1:description "star in the constellation Ursa Major"@en .
+
+<http://dbpedia.org/resource/Ophiuchus> a ns1:Constellation ;
+    rdfs:label "Ophiuchus"@en ;
+    ns1:description "zodiac constellation straddling the celestial equator"@en .
+
+<http://dbpedia.org/resource/Orion_(constellation)> a ns1:Constellation ;
+    rdfs:label "Orion (constellation)"@en ;
+    ns1:description "constellation straddling the celestial equator"@en .
+
+<http://dbpedia.org/resource/P/2019_LD2_(ATLAS)> a ns1:Planet ;
+    rdfs:label "P/2019 LD2 (ATLAS)"@en ;
+    ns1:description "Jupiter-family comet"@en .
+
+<http://dbpedia.org/resource/P/2020_MK4_(PanSTARRS)> a ns1:Planet ;
+    rdfs:label "P/2020 MK4 (PanSTARRS)"@en ;
+    ns1:description "Centaur (small Solar System body)"@en .
+
+<http://dbpedia.org/resource/PGC_3092152> a ns1:Galaxy ;
+    rdfs:label "PGC 3092152"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/PKS_0226-559> a ns1:Galaxy ;
+    rdfs:label "PKS 0226-559"@en,
+        "PKS 0226−559"@en ;
+    ns1:description "quasar in the constellation Horologium"@en .
+
+<http://dbpedia.org/resource/PKS_0438-436> a ns1:Galaxy ;
+    rdfs:label "PKS 0438-436"@en,
+        "PKS 0438−436"@en ;
+    ns1:description "quasar in the constellation Caelum"@en .
+
+<http://dbpedia.org/resource/PKS_0451-28> a ns1:Galaxy ;
+    rdfs:label "PKS 0451-28"@en,
+        "PKS 0451−28"@en ;
+    ns1:description "quasar in the constellation Caelum"@en .
+
+<http://dbpedia.org/resource/PKS_0537-286> a ns1:Galaxy ;
+    rdfs:label "PKS 0537-286"@en,
+        "PKS 0537−286"@en ;
+    ns1:description "quasar in the constellation Columba"@en .
+
+<http://dbpedia.org/resource/PKS_0637-752> a ns1:Galaxy ;
+    rdfs:label "PKS 0637-752"@en,
+        "PKS 0637−752"@en ;
+    ns1:description "quasar in the constellation Mensa"@en .
+
+<http://dbpedia.org/resource/PKS_0805-07> a ns1:Galaxy ;
+    rdfs:label "PKS 0805-07"@en,
+        "PKS 0805−07"@en ;
+    ns1:description "quasar in the constellation Monoceros"@en .
+
+<http://dbpedia.org/resource/PKS_1144-379> a ns1:Galaxy ;
+    rdfs:label "PKS 1144-379"@en,
+        "PKS 1144−379"@en ;
+    ns1:description "quasar in the constellation Centaurus"@en .
+
+<http://dbpedia.org/resource/PKS_1148-001> a ns1:Galaxy ;
+    rdfs:label "PKS 1148-001"@en,
+        "PKS 1148−001"@en ;
+    ns1:description "quasar in the constellation Virgo"@en .
+
+<http://dbpedia.org/resource/PKS_2126-158> a ns1:Galaxy ;
+    rdfs:label "PKS 2126-158"@en,
+        "PKS 2126−158"@en ;
+    ns1:description "quasar in the constellation Capricornus"@en .
+
+<http://dbpedia.org/resource/PKS_2131-021> a ns1:Galaxy ;
+    rdfs:label "PKS 2131-021"@en,
+        "PKS 2131−021"@en ;
+    ns1:description "quasar in the constellation Aquarius"@en .
+
+<http://dbpedia.org/resource/PSR_B1257+12_B> a ns1:Planet ;
+    rdfs:label "PSR B1257+12 B"@en ;
+    ns1:description "2nd exoplanet of PSR 1257+12 system"@en .
+
+<http://dbpedia.org/resource/PSR_B1257+12_C> a ns1:Planet ;
+    rdfs:label "PSR B1257+12 C"@en ;
+    ns1:description "3rd exoplanet of PSR 1257+12 system"@en .
+
+<http://dbpedia.org/resource/PSR_B1259−63/LS_2883> a ns1:Star ;
+    rdfs:label "PSR B1259−63"@en,
+        "PSR B1259−63/LS 2883"@en ;
+    ns1:description "star in the constellation Centaurus"@en .
+
+<http://dbpedia.org/resource/PSR_J0952–0607> a ns1:Star ;
+    rdfs:label "PSR J0952–0607"@en,
+        "PSR J0952−0607"@en ;
+    ns1:description "massive millisecond pulsar in the Milky Way"@en .
+
+<http://dbpedia.org/resource/Pavo_(constellation)> a ns1:Constellation ;
+    rdfs:label "Pavo (constellation)"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Pegasus_(constellation)> a ns1:Constellation ;
+    rdfs:label "Pegasus (constellation)"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Peggy_(moonlet)> a ns1:Planet ;
+    rdfs:label "Peggy (moonlet)"@en ;
+    ns1:description "propeller moonlet of Saturn"@en .
+
+<http://dbpedia.org/resource/Perseus_(constellation)> a ns1:Constellation ;
+    rdfs:label "Perseus (constellation)"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Phi_Tauri> a ns1:Star ;
+    rdfs:label "Phi Tauri"@en ;
+    ns1:description "star in the constellation Taurus"@en .
+
+<http://dbpedia.org/resource/Phi_Virginis> a ns1:Star ;
+    rdfs:label "Phi Virginis"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/Phoenix_(constellation)> a ns1:Constellation ;
+    rdfs:label "Phoenix (constellation)"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Pictor> a ns1:Constellation ;
+    rdfs:label "Pictor"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Pisces_(constellation)> a ns1:Constellation ;
+    rdfs:label "Pisces (constellation)"@en ;
+    ns1:description "zodiac constellation straddling the celestial equator"@en .
+
+<http://dbpedia.org/resource/Piscis_Austrinus> a ns1:Constellation ;
+    rdfs:label "Piscis Austrinus"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/PlanetPol> a ns1:Planet ;
+    rdfs:label "PlanetPol"@en .
+
+<http://dbpedia.org/resource/Psi_Serpentis> a ns1:Star ;
+    rdfs:label "Psi Serpentis"@en ;
+    ns1:description "star in the constellation Serpens"@en .
+
+<http://dbpedia.org/resource/Puppis> a ns1:Constellation ;
+    rdfs:label "Puppis"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Pyxis> a ns1:Constellation ;
+    rdfs:label "Pyxis"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/RW_Cephei> a ns1:Star ;
+    rdfs:label "RW Cephei"@en ;
+    ns1:description "star in the constellation Cepheus"@en .
+
+<http://dbpedia.org/resource/R_Cassiopeiae> a ns1:Star ;
+    rdfs:label "R Cassiopeiae"@en ;
+    ns1:description "variable star in the constellation Cassiopeia"@en .
+
+<http://dbpedia.org/resource/Reticulum> a ns1:Constellation ;
+    rdfs:label "Reticulum"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Ross_458> a ns1:Star ;
+    rdfs:label "Ross 458"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/S/2002_N_5> a ns1:Planet ;
+    rdfs:label "S/2002 N 5"@en ;
+    ns1:description "moon of Neptune"@en .
+
+<http://dbpedia.org/resource/S/2003_J_24> a ns1:Planet ;
+    rdfs:label "S/2003 J 24"@en ;
+    ns1:description "Jovian moon"@en .
+
+<http://dbpedia.org/resource/S/2004_S_46> a ns1:Planet ;
+    rdfs:label "S/2004 S 46"@en ;
+    ns1:description "moon of Saturn"@en .
+
+<http://dbpedia.org/resource/S/2004_S_52> a ns1:Planet ;
+    rdfs:label "S/2004 S 52"@en ;
+    ns1:description "moon of Saturn"@en .
+
+<http://dbpedia.org/resource/S/2005_S_5> a ns1:Planet ;
+    rdfs:label "S/2005 S 5"@en ;
+    ns1:description "moon of Saturn"@en .
+
+<http://dbpedia.org/resource/S/2006_S_12> a ns1:Planet ;
+    rdfs:label "S/2006 S 12"@en ;
+    ns1:description "Natural satellite of Saturn"@en .
+
+<http://dbpedia.org/resource/S/2006_S_14> a ns1:Planet ;
+    rdfs:label "S/2006 S 14"@en ;
+    ns1:description "moon of Saturn"@en .
+
+<http://dbpedia.org/resource/S/2006_S_18> a ns1:Planet ;
+    rdfs:label "S/2006 S 18"@en ;
+    ns1:description "moon of Saturn"@en .
+
+<http://dbpedia.org/resource/S/2006_S_19> a ns1:Planet ;
+    rdfs:label "S/2006 S 19"@en ;
+    ns1:description "moon of Saturn"@en .
+
+<http://dbpedia.org/resource/S/2018_(532037)_1> a ns1:Planet ;
+    rdfs:label "(532037) 2013 FY27"@en,
+        "532037 Chiminigagua"@en,
+        "S/2018 (532037) 1"@en ;
+    ns1:description "moon of planetoid (532037) 2013 FY27"@en .
+
+<http://dbpedia.org/resource/S/2021_N_1> a ns1:Planet ;
+    rdfs:label "S/2021 N 1"@en ;
+    ns1:description "moon of Neptune"@en .
+
+<http://dbpedia.org/resource/S/2023_U_1> a ns1:Planet ;
+    rdfs:label "S/2023 U 1"@en ;
+    ns1:description "moon of Uranus"@en .
+
+<http://dbpedia.org/resource/SAO_206462> a ns1:Star ;
+    rdfs:label "HD 135344"@en,
+        "SAO 206462"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/SDSS_J113706.18-033737.1> a ns1:Galaxy ;
+    rdfs:label "SDSS J113706.18-033737.1"@en,
+        "SDSS J113706.18−033737.1"@en ;
+    ns1:description "dwarf starburst galaxy"@en .
+
+<http://dbpedia.org/resource/SMM_J2135-0102> a ns1:Galaxy ;
+    rdfs:label "SMM J2135-0102"@en,
+        "SMM J2135−0102"@en ;
+    ns1:description "galaxy in the constellation Aquarius"@en .
+
+<http://dbpedia.org/resource/SPT0418-47> a ns1:Galaxy ;
+    rdfs:label "SPT0418-47"@en,
+        "SPT0418−47"@en ;
+    ns1:description "young extremely distant galaxy"@en .
+
+<http://dbpedia.org/resource/Sagitta> a ns1:Constellation ;
+    rdfs:label "Sagitta"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Sagittarius_(constellation)> a ns1:Constellation ;
+    rdfs:label "Sagittarius (constellation)"@en ;
+    ns1:description "zodiac constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Scorpius> a ns1:Constellation ;
+    rdfs:label "Scorpius"@en ;
+    ns1:description "zodiac constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Sculptor_(constellation)> a ns1:Constellation ;
+    rdfs:label "Sculptor (constellation)"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Scutum_(constellation)> a ns1:Constellation ;
+    rdfs:label "Scutum (constellation)"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Segue_1> a ns1:Galaxy ;
+    rdfs:label "Segue 1"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/Serpens> a ns1:Constellation ;
+    rdfs:label "Serpens"@en ;
+    ns1:description "constellation, straddling the celestial equator, consisting of two non-connected parts (Serpens Caput and Serpens Cauda)"@en .
+
+<http://dbpedia.org/resource/Sextans> a ns1:Constellation ;
+    rdfs:label "Sextans"@en ;
+    ns1:description "constellation on the celestial equator"@en .
+
+<http://dbpedia.org/resource/Sunburst_galaxy> a ns1:Galaxy ;
+    rdfs:label "Sunburst Galaxy"@en,
+        "Sunburst galaxy"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/Super-Neptune> a ns1:Planet ;
+    rdfs:label "Super-Neptune"@en ;
+    ns1:description "gas giant exoplanet larger than Neptune, with an estimated mass of 20–80 M⊕"@en .
+
+<http://dbpedia.org/resource/Swift_J1818.0–1607> a ns1:Star ;
+    rdfs:label "SWIFT J1818.0−1607"@en,
+        "Swift J1818.0–1607"@en ;
+    ns1:description "neutron star"@en .
+
+<http://dbpedia.org/resource/TOI-3235_b> a ns1:Planet ;
+    rdfs:label "TOI-3235 b"@en ;
+    ns1:description "neptune-like planet"@en .
+
+<http://dbpedia.org/resource/TOI-4127_b> a ns1:Planet ;
+    rdfs:label "TOI-4127 b"@en ;
+    ns1:description "gas giant exoplanet orbiting TOI-4127"@en .
+
+<http://dbpedia.org/resource/TOI-4603_b> a ns1:Planet ;
+    rdfs:label "TOI-4603 b"@en ;
+    ns1:description "exoplanet orbiting the star HD 245134"@en .
+
+<http://dbpedia.org/resource/TOI-672_b> a ns1:Planet ;
+    rdfs:label "TOI-672 b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/T_Cephei> a ns1:Star ;
+    rdfs:label "T Cephei"@en ;
+    ns1:description "variable star in the constellation Cepheus"@en .
+
+<http://dbpedia.org/resource/T_Leporis> a ns1:Star ;
+    rdfs:label "T Leporis"@en ;
+    ns1:description "variable star in the constellation Lepus"@en .
+
+<http://dbpedia.org/resource/Tau1_Arietis> a ns1:Star ;
+    rdfs:label "Tau1 Arietis"@en ;
+    ns1:description "binary star"@en .
+
+<http://dbpedia.org/resource/Taurus_(constellation)> a ns1:Constellation ;
+    rdfs:label "Taurus (constellation)"@en ;
+    ns1:description "zodiac constellation straddling the celestial equator"@en .
+
+<http://dbpedia.org/resource/Telescopium> a ns1:Constellation ;
+    rdfs:label "Telescopium"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Tinia_(moon)> a ns1:Planet ;
+    rdfs:label "Tinia (moon)"@en .
+
+<http://dbpedia.org/resource/Tololo_1247-232> a ns1:Galaxy ;
+    rdfs:label "Tololo 1247-232"@en,
+        "Tololo 1247−232"@en ;
+    ns1:description "galaxy"@en .
+
+<http://dbpedia.org/resource/Triangulum> a ns1:Constellation ;
+    rdfs:label "Triangulum"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Triangulum_Australe> a ns1:Constellation ;
+    rdfs:label "Triangulum Australe"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Tucana> a ns1:Constellation ;
+    rdfs:label "Tucana"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/UHZ1> a ns1:Galaxy ;
+    rdfs:label "UHZ1"@en ;
+    ns1:description "quasar"@en .
+
+<http://dbpedia.org/resource/Upsilon_Piscium> a ns1:Star ;
+    rdfs:label "Upsilon Piscium"@en ;
+    ns1:description "star in the constellation Pisces"@en .
+
+<http://dbpedia.org/resource/Upsilon_Tauri> a ns1:Star ;
+    rdfs:label "Upsilon Tauri"@en ;
+    ns1:description "variable star in the constellation Taurus"@en .
+
+<http://dbpedia.org/resource/Ursa_Major> a ns1:Constellation ;
+    rdfs:label "Ursa Major"@en ;
+    ns1:description "constellation visible throughout the year in most of the northern hemisphere"@en .
+
+<http://dbpedia.org/resource/Ursa_Minor> a ns1:Constellation ;
+    rdfs:label "Ursa Minor"@en ;
+    ns1:description "constellation in the northern celestial hemisphere, containing the northern celestial pole"@en .
+
+<http://dbpedia.org/resource/Vela_(constellation)> a ns1:Constellation ;
+    rdfs:label "Vela (constellation)"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Virgo_(constellation)> a ns1:Constellation ;
+    rdfs:label "Virgo (constellation)"@en ;
+    ns1:description "zodiac constellation passing through the celestial equator"@en .
+
+<http://dbpedia.org/resource/Volans> a ns1:Constellation ;
+    rdfs:label "Volans"@en ;
+    ns1:description "constellation in the southern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/Vulpecula> a ns1:Constellation ;
+    rdfs:label "Vulpecula"@en ;
+    ns1:description "constellation in the northern celestial hemisphere"@en .
+
+<http://dbpedia.org/resource/WASP-15> a ns1:Star ;
+    rdfs:label "WASP-15"@en ;
+    ns1:description "star in the constellation Centaurus"@en .
+
+<http://dbpedia.org/resource/WASP-16> a ns1:Star ;
+    rdfs:label "WASP-16"@en ;
+    ns1:description "star in the constellation Virgo"@en .
+
+<http://dbpedia.org/resource/WASP-24b> a ns1:Planet ;
+    rdfs:label "WASP-24b"@en ;
+    ns1:description "extrasolar planet"@en .
+
+<http://dbpedia.org/resource/WASP-6> a ns1:Star ;
+    rdfs:label "WASP-6"@en ;
+    ns1:description "star in the constellation Aquarius"@en .
+
+<http://dbpedia.org/resource/WASP-7> a ns1:Star ;
+    rdfs:label "WASP-7"@en ;
+    ns1:description "star"@en .
+
+<http://dbpedia.org/resource/WD_0810–353> a ns1:Star ;
+    rdfs:label "WD 0810–353"@en,
+        "WD 0810−353"@en ;
+    ns1:description "white dwarf star in the constellation Puppis"@en .
+
+<http://dbpedia.org/resource/WD_0816–310> a ns1:Star ;
+    rdfs:label "WD 0816–310"@en,
+        "WD 0816−310"@en ;
+    ns1:description "white dwarf in the constellation Puppis"@en .
+
+<http://dbpedia.org/resource/WD_1054–226> a ns1:Star ;
+    rdfs:label "WD 1054–226"@en,
+        "WD 1054−226"@en ;
+    ns1:description "white dwarf in the constellation Crater"@en .
+
+<http://dbpedia.org/resource/WISEA_J120037.79-784508.3> a ns1:Star ;
+    rdfs:label "WISEA J120037.79-784508.3"@en,
+        "WISEA J120037.79−784508.3"@en ;
+    ns1:description "brown dwarf in the constellation Chamaleon"@en .
+
+<http://dbpedia.org/resource/WISEPA_J022623.98-021142.8> a ns1:Star ;
+    rdfs:label "WISEPA J022623.98-021142.8"@en,
+        "WISEPA J022623.98−021142.8"@en ;
+    ns1:description "brown dwarf binary in constellation Cetus"@en .
+
+<http://dbpedia.org/resource/WISE_1534–1043> a ns1:Star ;
+    rdfs:label "WISE 1534–1043"@en,
+        "WISE 1534−1043"@en ;
+    ns1:description "infrared source"@en .
+
+<http://dbpedia.org/resource/XO-4> a ns1:Star ;
+    rdfs:label "XO-4"@en ;
+    ns1:description "star in the constellation Lynx"@en .
+
+<http://dbpedia.org/resource/XTE_J1550–564> a ns1:Star ;
+    rdfs:label "XTE J1550–564"@en,
+        "XTE J1550−564"@en ;
+    ns1:description "star"@en .
+
+
+# --- Fetched objects ---
+<http://dbpedia.org/resource/Sun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Sun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Sun> <http://www.w3.org/2000/01/rdf-schema#label> "Sun"@en .
+<http://dbpedia.org/resource/Sun> <http://dbpedia.org/ontology/description> "star at the centre of the Solar System"@en .
+<http://dbpedia.org/resource/Betelgeuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Betelgeuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Betelgeuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Betelgeuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Betelgeuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Betelgeuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Betelgeuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Betelgeuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Betelgeuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Betelgeuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Betelgeuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Betelgeuse> <http://www.w3.org/2000/01/rdf-schema#label> "Betelgeuse"@en .
+<http://dbpedia.org/resource/Betelgeuse> <http://dbpedia.org/ontology/description> "red supergiant star in the constellation of Orion"@en .
+<http://dbpedia.org/resource/Sirius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Sirius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Sirius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Sirius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Sirius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Sirius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Sirius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Sirius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Sirius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Sirius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Sirius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Sirius> <http://www.w3.org/2000/01/rdf-schema#label> "Sirius"@en .
+<http://dbpedia.org/resource/Sirius> <http://dbpedia.org/ontology/description> "binary star system in the constellation of Canis Major"@en .
+<http://dbpedia.org/resource/Vega> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Vega> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Vega> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Vega> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Vega> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Vega> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Vega> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Vega> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Vega> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Vega> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Vega> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Vega> <http://www.w3.org/2000/01/rdf-schema#label> "Vega"@en .
+<http://dbpedia.org/resource/Vega> <http://dbpedia.org/ontology/description> "star in the constellation Lyra"@en .
+<http://dbpedia.org/resource/Rigel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Rigel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Rigel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Rigel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Rigel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Rigel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Rigel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Rigel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Rigel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Rigel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Rigel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Rigel> <http://www.w3.org/2000/01/rdf-schema#label> "Rigel"@en .
+<http://dbpedia.org/resource/Rigel> <http://dbpedia.org/ontology/description> "star system in the constellation Orion"@en .
+<http://dbpedia.org/resource/Polaris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Polaris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Polaris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Polaris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Polaris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Polaris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Polaris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Polaris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Polaris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Polaris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Polaris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Polaris> <http://www.w3.org/2000/01/rdf-schema#label> "Polaris"@en .
+<http://dbpedia.org/resource/Polaris> <http://dbpedia.org/ontology/description> "brightest star in the constellation Ursa Minor"@en .
+<http://dbpedia.org/resource/Alpha_Centauri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Alpha_Centauri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Alpha_Centauri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Alpha_Centauri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Alpha_Centauri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Alpha_Centauri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Alpha_Centauri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Alpha_Centauri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Alpha_Centauri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Alpha_Centauri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Alpha_Centauri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Alpha_Centauri> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha Centauri"@en .
+<http://dbpedia.org/resource/Alpha_Centauri> <http://dbpedia.org/ontology/description> "triple star system in the constellation Centaurus, where one of the three stars, Proxima Centauri, being the closest star to the Earth"@en .
+<http://dbpedia.org/resource/Venus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Venus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Venus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Venus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Venus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Venus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q634> .
+<http://dbpedia.org/resource/Venus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Venus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Venus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Venus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Venus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Venus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Venus> <http://www.w3.org/2000/01/rdf-schema#label> "Venus"@en .
+<http://dbpedia.org/resource/Venus> <http://dbpedia.org/ontology/description> "planet second-closest to the Sun in the Solar System"@en .
+<http://dbpedia.org/resource/Venus> <http://dbpedia.org/ontology/meanTemperature> "737.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Venus> <http://dbpedia.org/ontology/meanTemperature> "737.15"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Venus> <http://dbpedia.org/ontology/orbitalPeriod> "165888.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Earth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Earth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Earth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Earth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Earth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Earth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q634> .
+<http://dbpedia.org/resource/Earth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Earth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Earth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Earth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Earth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Earth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Earth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Planet> .
+<http://dbpedia.org/resource/Earth> <http://www.w3.org/2000/01/rdf-schema#label> "Earth"@en .
+<http://dbpedia.org/resource/Earth> <http://dbpedia.org/ontology/description> "third planet from the Sun in the Solar System"@en .
+<http://dbpedia.org/resource/Earth> <http://dbpedia.org/ontology/meanTemperature> "287.91"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Earth> <http://dbpedia.org/ontology/orbitalPeriod> "31558149.7635456"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Mars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Mars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Mars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Mars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Mars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Mars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q634> .
+<http://dbpedia.org/resource/Mars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Mars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Mars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Mars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Mars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Mars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Mars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Planet> .
+<http://dbpedia.org/resource/Mars> <http://www.w3.org/2000/01/rdf-schema#label> "Mars"@en .
+<http://dbpedia.org/resource/Mars> <http://dbpedia.org/ontology/description> "fourth planet in the Solar System from the Sun"@en .
+<http://dbpedia.org/resource/Mars> <http://dbpedia.org/ontology/meanTemperature> "213.15"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Mars> <http://dbpedia.org/ontology/orbitalPeriod> "59355072.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Jupiter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Jupiter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Jupiter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Jupiter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Jupiter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Jupiter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q634> .
+<http://dbpedia.org/resource/Jupiter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Jupiter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Jupiter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Jupiter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Jupiter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Jupiter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Jupiter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Planet> .
+<http://dbpedia.org/resource/Jupiter> <http://www.w3.org/2000/01/rdf-schema#label> "Jupiter"@en .
+<http://dbpedia.org/resource/Jupiter> <http://dbpedia.org/ontology/description> "fifth planet from the Sun and largest planet in the Solar System"@en .
+<http://dbpedia.org/resource/Jupiter> <http://dbpedia.org/ontology/meanTemperature> "128.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Jupiter> <http://dbpedia.org/ontology/meanTemperature> "165.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Saturn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Saturn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Saturn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Saturn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Saturn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Saturn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q634> .
+<http://dbpedia.org/resource/Saturn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Saturn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Saturn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Saturn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Saturn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Saturn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Saturn> <http://www.w3.org/2000/01/rdf-schema#label> "Saturn"@en .
+<http://dbpedia.org/resource/Saturn> <http://dbpedia.org/ontology/description> "sixth planet from the Sun and the second-largest planet in the Solar System, after Jupiter"@en .
+<http://dbpedia.org/resource/Saturn> <http://dbpedia.org/ontology/meanTemperature> "97.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Saturn> <http://dbpedia.org/ontology/meanTemperature> "134.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Neptune> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Neptune> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Neptune> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Neptune> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Neptune> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Neptune> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q634> .
+<http://dbpedia.org/resource/Neptune> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Neptune> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Neptune> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Neptune> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Neptune> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Neptune> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Neptune> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Planet> .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/ontology/discoverer> <http://dbpedia.org/resource/Johann_Gottfried_Galle> .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/ontology/discoverer> <http://dbpedia.org/resource/John_Couch_Adams> .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/ontology/discoverer> <http://dbpedia.org/resource/Urbain_Le_Verrier> .
+<http://dbpedia.org/resource/Neptune> <http://www.w3.org/2000/01/rdf-schema#label> "Neptune"@en .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/ontology/description> "eighth and farthest planet from the Sun in the Solar System"@en .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/ontology/discovered> "1846-09-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/ontology/orbitalPeriod> "5200692480.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/ontology/orbitalPeriod> "5200848000.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/ontology/orbitalPeriod> "7747142400.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Pluto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Pluto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Pluto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Pluto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Pluto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Pluto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q634> .
+<http://dbpedia.org/resource/Pluto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Pluto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Pluto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Pluto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Pluto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Pluto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Pluto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Planet> .
+<http://dbpedia.org/resource/Pluto> <http://dbpedia.org/ontology/discoverer> <http://dbpedia.org/resource/Clyde_Tombaugh> .
+<http://dbpedia.org/resource/Pluto> <http://www.w3.org/2000/01/rdf-schema#label> "Pluto"@en .
+<http://dbpedia.org/resource/Pluto> <http://dbpedia.org/ontology/description> "dwarf planet in the Solar System"@en .
+<http://dbpedia.org/resource/Pluto> <http://dbpedia.org/ontology/discovered> "1930-02-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Pluto> <http://dbpedia.org/ontology/meanTemperature> "44.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Moon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Moon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Moon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Moon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Moon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Moon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q634> .
+<http://dbpedia.org/resource/Moon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Moon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Moon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Moon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Moon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Moon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Moon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Moon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Planet> .
+<http://dbpedia.org/resource/Moon> <http://www.w3.org/2000/01/rdf-schema#label> "Moon"@en .
+<http://dbpedia.org/resource/Moon> <http://dbpedia.org/ontology/description> "Earth's only natural satellite"@en .
+<http://dbpedia.org/resource/Moon> <http://dbpedia.org/ontology/meanTemperature> "150.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Moon> <http://dbpedia.org/ontology/meanTemperature> "250.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Milky_Way> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Milky_Way> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Milky_Way> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Milky_Way> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Milky_Way> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Milky_Way> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q318> .
+<http://dbpedia.org/resource/Milky_Way> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Milky_Way> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Milky_Way> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Milky_Way> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Milky_Way> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Milky_Way> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Milky_Way> <http://www.w3.org/2000/01/rdf-schema#label> "Milky Way"@en .
+<http://dbpedia.org/resource/Milky_Way> <http://dbpedia.org/ontology/description> "spiral galaxy in the Local Group containing the Solar System; its appearance across the night sky in areas with little to no light pollution"@en .
+<http://dbpedia.org/resource/Andromeda_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Andromeda_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Andromeda_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Andromeda_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Andromeda_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Andromeda_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q318> .
+<http://dbpedia.org/resource/Andromeda_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Andromeda_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Andromeda_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Andromeda_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Andromeda_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Andromeda_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Andromeda_Galaxy> <http://www.w3.org/2000/01/rdf-schema#label> "Andromeda Galaxy"@en .
+<http://dbpedia.org/resource/Andromeda_Galaxy> <http://dbpedia.org/ontology/description> "barred spiral galaxy within the Local Group"@en .
+<http://dbpedia.org/resource/Triangulum_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Triangulum_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Triangulum_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Triangulum_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Triangulum_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Triangulum_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q318> .
+<http://dbpedia.org/resource/Triangulum_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Triangulum_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Triangulum_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Triangulum_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Triangulum_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Triangulum_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Triangulum_Galaxy> <http://www.w3.org/2000/01/rdf-schema#label> "Triangulum Galaxy"@en .
+<http://dbpedia.org/resource/Triangulum_Galaxy> <http://dbpedia.org/ontology/description> "spiral galaxy in the constellation of Triangulum"@en .
+<http://dbpedia.org/resource/Large_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Large_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Large_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Large_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Large_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Large_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q318> .
+<http://dbpedia.org/resource/Large_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Large_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Large_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Large_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Large_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Large_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Large_Magellanic_Cloud> <http://www.w3.org/2000/01/rdf-schema#label> "Large Magellanic Cloud"@en .
+<http://dbpedia.org/resource/Large_Magellanic_Cloud> <http://dbpedia.org/ontology/description> "irregular galaxy, satellite of the Milky Way"@en .
+<http://dbpedia.org/resource/Small_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Small_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Small_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Small_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Small_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Small_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q318> .
+<http://dbpedia.org/resource/Small_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Small_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Small_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Small_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Small_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Small_Magellanic_Cloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Small_Magellanic_Cloud> <http://www.w3.org/2000/01/rdf-schema#label> "Small Magellanic Cloud"@en .
+<http://dbpedia.org/resource/Small_Magellanic_Cloud> <http://dbpedia.org/ontology/description> "Irregular galaxy, satellite galaxy of the Milky Way"@en .
+<http://dbpedia.org/resource/Orion_Nebula> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Orion_Nebula> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Orion_Nebula> <http://www.w3.org/2000/01/rdf-schema#label> "Orion Nebula"@en .
+<http://dbpedia.org/resource/Orion_Nebula> <http://dbpedia.org/ontology/description> "diffuse nebula"@en .
+<http://dbpedia.org/resource/Crab_Nebula> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Crab_Nebula> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Crab_Nebula> <http://www.w3.org/2000/01/rdf-schema#label> "Crab Nebula"@en .
+<http://dbpedia.org/resource/Crab_Nebula> <http://dbpedia.org/ontology/description> "Supernova remnant"@en .
+<http://dbpedia.org/resource/Eagle_Nebula> <http://www.w3.org/2000/01/rdf-schema#label> "Eagle Nebula"@en .
+<http://dbpedia.org/resource/Eagle_Nebula> <http://dbpedia.org/ontology/description> "eagle-like animal nebula"@en .
+<http://dbpedia.org/resource/Black_hole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Black_hole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Black_hole> <http://www.w3.org/2000/01/rdf-schema#label> "Black hole"@en .
+<http://dbpedia.org/resource/Black_hole> <http://dbpedia.org/ontology/description> "astronomical object so massive, that anything falling into it, including light, cannot escape its gravity"@en .
+<http://dbpedia.org/resource/Neutron_star> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Neutron_star> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Neutron_star> <http://www.w3.org/2000/01/rdf-schema#label> "Neutron star"@en .
+<http://dbpedia.org/resource/Neutron_star> <http://dbpedia.org/ontology/description> "collapsed core of a massive star consisting mainly of neutrons"@en .
+<http://dbpedia.org/resource/White_dwarf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/White_dwarf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/White_dwarf> <http://www.w3.org/2000/01/rdf-schema#label> "White dwarf"@en .
+<http://dbpedia.org/resource/White_dwarf> <http://dbpedia.org/ontology/description> "type of stellar remnant composed mostly of electron-degenerate matter"@en .
+<http://dbpedia.org/resource/Supernova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Supernova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Supernova> <http://www.w3.org/2000/01/rdf-schema#label> "Supernova"@en .
+<http://dbpedia.org/resource/Supernova> <http://dbpedia.org/ontology/description> "star exploding at the end of its stellar lifespan"@en .
+<http://dbpedia.org/resource/Quasar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Quasar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Quasar> <http://www.w3.org/2000/01/rdf-schema#label> "Quasar"@en .
+<http://dbpedia.org/resource/Quasar> <http://dbpedia.org/ontology/description> "active galactic nuclei containing a massive black hole"@en .
+<http://dbpedia.org/resource/Pulsar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Pulsar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Pulsar> <http://www.w3.org/2000/01/rdf-schema#label> "Pulsar"@en .
+<http://dbpedia.org/resource/Pulsar> <http://dbpedia.org/ontology/description> "highly magnetized, rapidly rotating neutron star or white dwarf"@en .
+<http://dbpedia.org/resource/International_Space_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/International_Space_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/SpaceStation> .
+<http://dbpedia.org/resource/International_Space_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q25956> .
+<http://dbpedia.org/resource/International_Space_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MeanOfTransportation> .
+<http://dbpedia.org/resource/International_Space_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MeanOfTransportation> .
+<http://dbpedia.org/resource/International_Space_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SpaceStation> .
+<http://dbpedia.org/resource/International_Space_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SpaceStation> .
+<http://dbpedia.org/resource/International_Space_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SpaceStation> .
+<http://dbpedia.org/resource/International_Space_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/TransportationDevice_Vehicle> .
+<http://dbpedia.org/resource/International_Space_Station> <http://www.w3.org/2000/01/rdf-schema#label> "International Space Station"@en .
+<http://dbpedia.org/resource/International_Space_Station> <http://dbpedia.org/ontology/description> "modular space station in low Earth orbit"@en .
+<http://dbpedia.org/resource/Hubble_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Hubble_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event> .
+<http://dbpedia.org/resource/Hubble_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1656682> .
+<http://dbpedia.org/resource/Hubble_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q2133344> .
+<http://dbpedia.org/resource/Hubble_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/Hubble_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/Hubble_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/Hubble_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/Hubble_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SpaceMission> .
+<http://dbpedia.org/resource/Hubble_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SpaceMission> .
+<http://dbpedia.org/resource/Hubble_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SpaceMission> .
+<http://dbpedia.org/resource/Hubble_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/Hubble_Space_Telescope> <http://www.w3.org/2000/01/rdf-schema#label> "Hubble Space Telescope"@en .
+<http://dbpedia.org/resource/Hubble_Space_Telescope> <http://dbpedia.org/ontology/description> "NASA and ESA space telescope (launched 1990)"@en .
+<http://dbpedia.org/resource/James_Webb_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/James_Webb_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event> .
+<http://dbpedia.org/resource/James_Webb_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1656682> .
+<http://dbpedia.org/resource/James_Webb_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q2133344> .
+<http://dbpedia.org/resource/James_Webb_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/James_Webb_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/James_Webb_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/James_Webb_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/James_Webb_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SpaceMission> .
+<http://dbpedia.org/resource/James_Webb_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SpaceMission> .
+<http://dbpedia.org/resource/James_Webb_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SpaceMission> .
+<http://dbpedia.org/resource/James_Webb_Space_Telescope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/James_Webb_Space_Telescope> <http://www.w3.org/2000/01/rdf-schema#label> "James Webb Space Telescope"@en .
+<http://dbpedia.org/resource/James_Webb_Space_Telescope> <http://dbpedia.org/ontology/description> "NASA/ESA/CSA space telescope launched in 2021"@en .
+
+# --- Batch 2 fetched objects ---
+<http://dbpedia.org/resource/Arcturus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Arcturus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Arcturus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Arcturus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Arcturus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Arcturus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Arcturus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Arcturus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Arcturus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Arcturus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Arcturus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Arcturus> <http://www.w3.org/2000/01/rdf-schema#label> "Arcturus"@en .
+<http://dbpedia.org/resource/Arcturus> <http://dbpedia.org/ontology/description> "star in the constellation Boötes"@en .
+<http://dbpedia.org/resource/Aldebaran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Aldebaran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Aldebaran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Aldebaran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Aldebaran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Aldebaran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Aldebaran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Aldebaran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Aldebaran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Aldebaran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Aldebaran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Aldebaran> <http://www.w3.org/2000/01/rdf-schema#label> "Aldebaran"@en .
+<http://dbpedia.org/resource/Aldebaran> <http://www.w3.org/2000/01/rdf-schema#label> "Aldebaran b"@en .
+<http://dbpedia.org/resource/Aldebaran> <http://www.w3.org/2000/01/rdf-schema#label> "Aldebaran in fiction"@en .
+<http://dbpedia.org/resource/Aldebaran> <http://dbpedia.org/ontology/description> "star system in the constellation Taurus"@en .
+<http://dbpedia.org/resource/Antares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Antares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Antares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Antares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Antares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Antares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Antares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Antares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Antares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Antares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Antares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Antares> <http://www.w3.org/2000/01/rdf-schema#label> "Antares"@en .
+<http://dbpedia.org/resource/Antares> <http://dbpedia.org/ontology/description> "red supergiant star in the constellation Scorpius"@en .
+<http://dbpedia.org/resource/Spica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Spica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Spica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Spica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Spica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Spica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Spica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Spica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Spica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Spica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Spica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Spica> <http://www.w3.org/2000/01/rdf-schema#label> "Spica"@en .
+<http://dbpedia.org/resource/Spica> <http://dbpedia.org/ontology/description> "star in the constellation Virgo"@en .
+<http://dbpedia.org/resource/Deneb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Deneb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Deneb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Deneb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Deneb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Deneb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Deneb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Deneb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Deneb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Deneb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Deneb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Deneb> <http://www.w3.org/2000/01/rdf-schema#label> "Deneb"@en .
+<http://dbpedia.org/resource/Deneb> <http://dbpedia.org/ontology/description> "blue supergiant star in the constellation Cygnus"@en .
+<http://dbpedia.org/resource/Canopus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Canopus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Canopus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Canopus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Canopus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Canopus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Canopus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Canopus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Canopus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Canopus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Canopus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Canopus> <http://www.w3.org/2000/01/rdf-schema#label> "Canopus"@en .
+<http://dbpedia.org/resource/Canopus> <http://dbpedia.org/ontology/description> "star in the constellation of Carina"@en .
+<http://dbpedia.org/resource/Fomalhaut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Fomalhaut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Fomalhaut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Fomalhaut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Fomalhaut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Fomalhaut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Fomalhaut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Fomalhaut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Fomalhaut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Fomalhaut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Fomalhaut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Fomalhaut> <http://www.w3.org/2000/01/rdf-schema#label> "Fomalhaut"@en .
+<http://dbpedia.org/resource/Fomalhaut> <http://dbpedia.org/ontology/description> "star in the constellation Piscis Austrinus"@en .
+<http://dbpedia.org/resource/Achernar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Achernar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Achernar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Achernar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Achernar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Achernar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Achernar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Achernar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Achernar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Achernar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Star> .
+<http://dbpedia.org/resource/Achernar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Achernar> <http://www.w3.org/2000/01/rdf-schema#label> "Achernar"@en .
+<http://dbpedia.org/resource/Achernar> <http://dbpedia.org/ontology/description> "star in the constellation Eridanus"@en .
+<http://dbpedia.org/resource/Ring_Nebula> <http://www.w3.org/2000/01/rdf-schema#label> "Ring Nebula"@en .
+<http://dbpedia.org/resource/Ring_Nebula> <http://dbpedia.org/ontology/description> "planetary nebula in the constellation Lyra"@en .
+<http://dbpedia.org/resource/Helix_Nebula> <http://www.w3.org/2000/01/rdf-schema#label> "Helix Nebula"@en .
+<http://dbpedia.org/resource/Helix_Nebula> <http://dbpedia.org/ontology/description> "planetary nebula"@en .
+<http://dbpedia.org/resource/Lagoon_Nebula> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Lagoon_Nebula> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Lagoon_Nebula> <http://www.w3.org/2000/01/rdf-schema#label> "Lagoon Nebula"@en .
+<http://dbpedia.org/resource/Lagoon_Nebula> <http://dbpedia.org/ontology/description> "emission nebula and H II region in Sagittarius"@en .
+<http://dbpedia.org/resource/Trifid_Nebula> <http://www.w3.org/2000/01/rdf-schema#label> "Trifid Nebula"@en .
+<http://dbpedia.org/resource/Trifid_Nebula> <http://dbpedia.org/ontology/description> "HII region"@en .
+<http://dbpedia.org/resource/Whirlpool_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Whirlpool_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Whirlpool_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Whirlpool_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Whirlpool_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Whirlpool_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q318> .
+<http://dbpedia.org/resource/Whirlpool_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Whirlpool_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Whirlpool_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Whirlpool_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Whirlpool_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Whirlpool_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Whirlpool_Galaxy> <http://www.w3.org/2000/01/rdf-schema#label> "Whirlpool Galaxy"@en .
+<http://dbpedia.org/resource/Whirlpool_Galaxy> <http://dbpedia.org/ontology/description> "Extroplanet"@en .
+<http://dbpedia.org/resource/Sombrero_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Sombrero_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Sombrero_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Sombrero_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Sombrero_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Sombrero_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q318> .
+<http://dbpedia.org/resource/Sombrero_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Sombrero_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Sombrero_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Sombrero_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Sombrero_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Sombrero_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Sombrero_Galaxy> <http://www.w3.org/2000/01/rdf-schema#label> "Sombrero Galaxy"@en .
+<http://dbpedia.org/resource/Sombrero_Galaxy> <http://dbpedia.org/ontology/description> "Unbarred spiral galaxy in the constellation Virgo"@en .
+<http://dbpedia.org/resource/Pinwheel_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Pinwheel_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Pinwheel_Galaxy> <http://www.w3.org/2000/01/rdf-schema#label> "Pinwheel Galaxy"@en .
+<http://dbpedia.org/resource/Pinwheel_Galaxy> <http://dbpedia.org/ontology/description> "spiral galaxy in the constellation Ursa Major"@en .
+<http://dbpedia.org/resource/Sculptor_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Sculptor_Galaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Sculptor_Galaxy> <http://www.w3.org/2000/01/rdf-schema#label> "Sculptor Galaxy"@en .
+<http://dbpedia.org/resource/Sculptor_Galaxy> <http://dbpedia.org/ontology/description> "spiral galaxy"@en .
+<http://dbpedia.org/resource/Centaurus_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Centaurus_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Centaurus_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Centaurus_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Centaurus_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Centaurus_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q318> .
+<http://dbpedia.org/resource/Centaurus_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Centaurus_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Centaurus_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Centaurus_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Centaurus_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Galaxy> .
+<http://dbpedia.org/resource/Centaurus_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Centaurus_A> <http://www.w3.org/2000/01/rdf-schema#label> "Centaurus A"@en .
+<http://dbpedia.org/resource/Centaurus_A> <http://dbpedia.org/ontology/description> "Closest radio galaxy in the Constellation Centaurus"@en .
+<http://dbpedia.org/resource/Ursa_Major> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ursa_Major> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Ursa_Major> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Ursa_Major> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Ursa_Major> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Ursa_Major> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q8928> .
+<http://dbpedia.org/resource/Ursa_Major> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Ursa_Major> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Ursa_Major> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Constellation> .
+<http://dbpedia.org/resource/Ursa_Major> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Constellation> .
+<http://dbpedia.org/resource/Ursa_Major> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Constellation> .
+<http://dbpedia.org/resource/Ursa_Major> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Ursa_Major> <http://www.w3.org/2000/01/rdf-schema#label> "Ursa Major"@en .
+<http://dbpedia.org/resource/Ursa_Major> <http://dbpedia.org/ontology/description> "constellation visible throughout the year in most of the northern hemisphere"@en .
+<http://dbpedia.org/resource/Scorpius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Scorpius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Scorpius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Scorpius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Scorpius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Scorpius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q8928> .
+<http://dbpedia.org/resource/Scorpius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Scorpius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Scorpius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Constellation> .
+<http://dbpedia.org/resource/Scorpius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Constellation> .
+<http://dbpedia.org/resource/Scorpius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Constellation> .
+<http://dbpedia.org/resource/Scorpius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Scorpius> <http://www.w3.org/2000/01/rdf-schema#label> "Scorpius"@en .
+<http://dbpedia.org/resource/Scorpius> <http://dbpedia.org/ontology/description> "zodiac constellation in the southern celestial hemisphere"@en .
+<http://dbpedia.org/resource/Asteroid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Asteroid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Asteroid> <http://www.w3.org/2000/01/rdf-schema#label> "Asteroid"@en .
+<http://dbpedia.org/resource/Asteroid> <http://dbpedia.org/ontology/description> "minor planet of the inner Solar System; not a comet"@en .
+<http://dbpedia.org/resource/Exoplanet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Exoplanet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Exoplanet> <http://www.w3.org/2000/01/rdf-schema#label> "Exoplanet"@en .
+<http://dbpedia.org/resource/Exoplanet> <http://dbpedia.org/ontology/description> "any planet beyond the Solar System"@en .
+
+# --- Batch 3 fetched objects ---
+<http://dbpedia.org/resource/Titan_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Titan_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Titan_(moon)> <http://www.w3.org/2000/01/rdf-schema#label> "Titan (moon)"@en .
+<http://dbpedia.org/resource/Titan_(moon)> <http://dbpedia.org/ontology/description> "largest moon of Saturn"@en .
+<http://dbpedia.org/resource/Io_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Io_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Io_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Io_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Io_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Io_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q634> .
+<http://dbpedia.org/resource/Io_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Io_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Io_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Io_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Io_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Io_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Io_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Planet> .
+<http://dbpedia.org/resource/Io_(moon)> <http://dbpedia.org/ontology/discoverer> <http://dbpedia.org/resource/Galileo_Galilei> .
+<http://dbpedia.org/resource/Io_(moon)> <http://www.w3.org/2000/01/rdf-schema#label> "Io (moon)"@en .
+<http://dbpedia.org/resource/Io_(moon)> <http://dbpedia.org/ontology/description> "innermost of the 4 Galilean moons of Jupiter"@en .
+<http://dbpedia.org/resource/Io_(moon)> <http://dbpedia.org/ontology/discovered> "1610-01-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Io_(moon)> <http://dbpedia.org/ontology/meanTemperature> "110.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Ganymede_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ganymede_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Ganymede_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Planet> .
+<http://dbpedia.org/resource/Ganymede_(moon)> <http://www.w3.org/2000/01/rdf-schema#label> "Ganymede (moon)"@en .
+<http://dbpedia.org/resource/Ganymede_(moon)> <http://dbpedia.org/ontology/description> "Galilean moon of Jupiter"@en .
+<http://dbpedia.org/resource/Callisto_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Callisto_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Callisto_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Planet> .
+<http://dbpedia.org/resource/Callisto_(moon)> <http://www.w3.org/2000/01/rdf-schema#label> "Callisto (moon)"@en .
+<http://dbpedia.org/resource/Callisto_(moon)> <http://dbpedia.org/ontology/description> "second largest Galilean moon of Jupiter and third largest in the solar system"@en .
+<http://dbpedia.org/resource/Triton_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Triton_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Triton_(moon)> <http://www.w3.org/2000/01/rdf-schema#label> "Triton (moon)"@en .
+<http://dbpedia.org/resource/Triton_(moon)> <http://dbpedia.org/ontology/description> "largest moon of Neptune"@en .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q634> .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Planet> .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://umbel.org/umbel/rc/Planet> .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://dbpedia.org/ontology/discoverer> <http://dbpedia.org/resource/William_Herschel> .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://www.w3.org/2000/01/rdf-schema#label> "Oberon (moon)"@en .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://dbpedia.org/ontology/description> "moon of Uranus"@en .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://dbpedia.org/ontology/discovered> "1787-01-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Titania_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Titania_(moon)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Titania_(moon)> <http://www.w3.org/2000/01/rdf-schema#label> "Titania (moon)"@en .
+<http://dbpedia.org/resource/Titania_(moon)> <http://dbpedia.org/ontology/description> "largest moon of Uranus"@en .
+<http://dbpedia.org/resource/Orion_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Orion_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Orion_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Orion_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Orion_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Orion_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q8928> .
+<http://dbpedia.org/resource/Orion_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Orion_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Orion_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Constellation> .
+<http://dbpedia.org/resource/Orion_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Constellation> .
+<http://dbpedia.org/resource/Orion_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Constellation> .
+<http://dbpedia.org/resource/Orion_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Orion_(constellation)> <http://www.w3.org/2000/01/rdf-schema#label> "Orion (constellation)"@en .
+<http://dbpedia.org/resource/Orion_(constellation)> <http://dbpedia.org/ontology/description> "constellation straddling the celestial equator"@en .
+<http://dbpedia.org/resource/Cassiopeia_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Cassiopeia_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Cassiopeia_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Cassiopeia_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Cassiopeia_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Cassiopeia_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q8928> .
+<http://dbpedia.org/resource/Cassiopeia_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Cassiopeia_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Cassiopeia_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Constellation> .
+<http://dbpedia.org/resource/Cassiopeia_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Constellation> .
+<http://dbpedia.org/resource/Cassiopeia_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Constellation> .
+<http://dbpedia.org/resource/Cassiopeia_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Cassiopeia_(constellation)> <http://www.w3.org/2000/01/rdf-schema#label> "Cassiopeia (constellation)"@en .
+<http://dbpedia.org/resource/Cassiopeia_(constellation)> <http://dbpedia.org/ontology/description> "constellation in the northern celestial hemisphere"@en .
+<http://dbpedia.org/resource/Leo_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Leo_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Leo_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Leo_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Leo_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Leo_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q8928> .
+<http://dbpedia.org/resource/Leo_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Leo_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CelestialBody> .
+<http://dbpedia.org/resource/Leo_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Constellation> .
+<http://dbpedia.org/resource/Leo_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Constellation> .
+<http://dbpedia.org/resource/Leo_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Constellation> .
+<http://dbpedia.org/resource/Leo_(constellation)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Leo_(constellation)> <http://www.w3.org/2000/01/rdf-schema#label> "Leo (constellation)"@en .
+<http://dbpedia.org/resource/Leo_(constellation)> <http://dbpedia.org/ontology/description> "zodiac constellation passing through the celestial equator"@en .
+
+# --- Batch 4 fetched objects (effectiveTemperature, dbp:mass/radius) ---
+<http://dbpedia.org/resource/Mercury_(planet)> <http://dbpedia.org/property/mass> ""@en .
+<http://dbpedia.org/resource/Mercury_(planet)> <http://dbpedia.org/property/mass> "0.055"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Venus> <http://dbpedia.org/property/mass> ""@en .
+<http://dbpedia.org/resource/Venus> <http://dbpedia.org/property/mass> "0.8149999999999999"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Mars> <http://dbpedia.org/property/mass> ""@en .
+<http://dbpedia.org/resource/Jupiter> <http://dbpedia.org/property/mass> ""@en .
+<http://dbpedia.org/resource/Saturn> <http://dbpedia.org/property/mass> ""@en .
+<http://dbpedia.org/resource/Uranus> <http://dbpedia.org/property/mass> ""@en .
+<http://dbpedia.org/resource/Uranus> <http://dbpedia.org/property/mass> "GM="@en .
+<http://dbpedia.org/resource/Uranus> <http://dbpedia.org/property/mass> "14.536"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/property/mass> "5.15"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/property/mass> "17.147"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Betelgeuse> <http://dbpedia.org/property/radius> "~640–"@en .
+<http://dbpedia.org/resource/Betelgeuse> <http://dbpedia.org/property/mass> "1419"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Vega> <http://dbpedia.org/property/radius> ","@en .
+<http://dbpedia.org/resource/Rigel> <http://dbpedia.org/property/mass> "2.94"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Rigel> <http://dbpedia.org/property/mass> "3.84"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Polaris> <http://dbpedia.org/property/radius> "1.04"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Polaris> <http://dbpedia.org/property/radius> "1.38"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Polaris> <http://dbpedia.org/property/mass> "1.316"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Polaris> <http://dbpedia.org/property/mass> "1.39"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Antares> <http://dbpedia.org/property/radius> "5.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Antares> <http://dbpedia.org/property/radius> "680"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Antares> <http://dbpedia.org/property/mass> "7.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Antares> <http://dbpedia.org/property/mass> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+# --- Batch 4 fetched objects (effectiveTemperature, dbp:mass/radius) ---
+<http://dbpedia.org/resource/Mercury_(planet)> <http://dbpedia.org/property/mass> ""@en .
+<http://dbpedia.org/resource/Mercury_(planet)> <http://dbpedia.org/property/mass> "0.055"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Venus> <http://dbpedia.org/property/mass> ""@en .
+<http://dbpedia.org/resource/Venus> <http://dbpedia.org/property/mass> "0.8149999999999999"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Mars> <http://dbpedia.org/property/mass> ""@en .
+<http://dbpedia.org/resource/Jupiter> <http://dbpedia.org/property/mass> ""@en .
+<http://dbpedia.org/resource/Saturn> <http://dbpedia.org/property/mass> ""@en .
+<http://dbpedia.org/resource/Uranus> <http://dbpedia.org/property/mass> ""@en .
+<http://dbpedia.org/resource/Uranus> <http://dbpedia.org/property/mass> "GM="@en .
+<http://dbpedia.org/resource/Uranus> <http://dbpedia.org/property/mass> "14.536"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/property/mass> "5.15"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/property/mass> "17.147"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Betelgeuse> <http://dbpedia.org/property/radius> "~640–"@en .
+<http://dbpedia.org/resource/Betelgeuse> <http://dbpedia.org/property/mass> "1419"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Vega> <http://dbpedia.org/property/radius> ","@en .
+<http://dbpedia.org/resource/Rigel> <http://dbpedia.org/property/mass> "2.94"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Rigel> <http://dbpedia.org/property/mass> "3.84"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Polaris> <http://dbpedia.org/property/radius> "1.04"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Polaris> <http://dbpedia.org/property/radius> "1.38"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Polaris> <http://dbpedia.org/property/mass> "1.316"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Polaris> <http://dbpedia.org/property/mass> "1.39"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Antares> <http://dbpedia.org/property/radius> "5.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Antares> <http://dbpedia.org/property/radius> "680"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Antares> <http://dbpedia.org/property/mass> "7.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Antares> <http://dbpedia.org/property/mass> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+
+# --- Batch 5: discovery, constellation, composition ---
+<http://dbpedia.org/resource/Uranus> <http://dbpedia.org/property/discoverer> "P61"@en .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/ontology/discoverer> <http://dbpedia.org/resource/Johann_Gottfried_Galle> .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/ontology/discoverer> <http://dbpedia.org/resource/John_Couch_Adams> .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/ontology/discoverer> <http://dbpedia.org/resource/Urbain_Le_Verrier> .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/property/discoverer> ""@en .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/property/discoverer> "John Couch Adams"@en .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/property/discoverer> "Urbain Le Verrier"@en .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/property/discoverer> "Johann Galle"@en .
+<http://dbpedia.org/resource/Pluto> <http://dbpedia.org/property/discoverer> <http://dbpedia.org/resource/Clyde_Tombaugh> .
+<http://dbpedia.org/resource/Pluto> <http://dbpedia.org/ontology/discoverer> <http://dbpedia.org/resource/Clyde_Tombaugh> .
+<http://dbpedia.org/resource/Ceres_(dwarf_planet)> <http://dbpedia.org/property/discoverer> <http://dbpedia.org/resource/Giuseppe_Piazzi> .
+<http://dbpedia.org/resource/Europa_(moon)> <http://dbpedia.org/property/discoverer> <http://dbpedia.org/resource/Galileo_Galilei> .
+<http://dbpedia.org/resource/Europa_(moon)> <http://dbpedia.org/property/discoverer> <http://dbpedia.org/resource/Simon_Marius> .
+<http://dbpedia.org/resource/Europa_(moon)> <http://dbpedia.org/ontology/discoverer> <http://dbpedia.org/resource/Galileo_Galilei> .
+<http://dbpedia.org/resource/Europa_(moon)> <http://dbpedia.org/ontology/discoverer> <http://dbpedia.org/resource/Simon_Marius> .
+<http://dbpedia.org/resource/Titan_(moon)> <http://dbpedia.org/property/discoverer> <http://dbpedia.org/resource/Christiaan_Huygens> .
+<http://dbpedia.org/resource/Ganymede_(moon)> <http://dbpedia.org/property/discoverer> <http://dbpedia.org/resource/Galileo_Galilei> .
+<http://dbpedia.org/resource/Ganymede_(moon)> <http://dbpedia.org/property/discoverer> <http://dbpedia.org/resource/Simon_Marius> .
+<http://dbpedia.org/resource/Callisto_(moon)> <http://dbpedia.org/property/discoverer> <http://dbpedia.org/resource/Galileo_Galilei> .
+<http://dbpedia.org/resource/Callisto_(moon)> <http://dbpedia.org/property/discoverer> <http://dbpedia.org/resource/Simon_Marius> .
+<http://dbpedia.org/resource/Io_(moon)> <http://dbpedia.org/property/discoverer> <http://dbpedia.org/resource/Galileo_Galilei> .
+<http://dbpedia.org/resource/Io_(moon)> <http://dbpedia.org/ontology/discoverer> <http://dbpedia.org/resource/Galileo_Galilei> .
+<http://dbpedia.org/resource/Triton_(moon)> <http://dbpedia.org/property/discoverer> <http://dbpedia.org/resource/William_Lassell> .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://dbpedia.org/property/discoverer> <http://dbpedia.org/resource/William_Herschel> .
+<http://dbpedia.org/resource/Oberon_(moon)> <http://dbpedia.org/ontology/discoverer> <http://dbpedia.org/resource/William_Herschel> .
+<http://dbpedia.org/resource/Titania_(moon)> <http://dbpedia.org/property/discoverer> <http://dbpedia.org/resource/William_Herschel> .
+<http://dbpedia.org/resource/Orion_Nebula> <http://dbpedia.org/property/constellation> <http://dbpedia.org/resource/Orion_(constellation)> .
+<http://dbpedia.org/resource/Crab_Nebula> <http://dbpedia.org/property/constellation> <http://dbpedia.org/resource/Taurus_(constellation)> .
+<http://dbpedia.org/resource/Eagle_Nebula> <http://dbpedia.org/property/constellation> <http://dbpedia.org/resource/Serpens> .
+<http://dbpedia.org/resource/Ring_Nebula> <http://dbpedia.org/property/constellation> <http://dbpedia.org/resource/Lyra> .
+<http://dbpedia.org/resource/Helix_Nebula> <http://dbpedia.org/property/constellation> <http://dbpedia.org/resource/Aquarius_(constellation)> .
+<http://dbpedia.org/resource/Lagoon_Nebula> <http://dbpedia.org/property/constellation> <http://dbpedia.org/resource/Sagittarius_(constellation)> .
+<http://dbpedia.org/resource/Trifid_Nebula> <http://dbpedia.org/property/constellation> <http://dbpedia.org/resource/Sagittarius_(constellation)> .
+
+# --- Manual additions: star constellations (DBpedia lacks structured data for these) ---
+<http://dbpedia.org/resource/Betelgeuse>     <http://dbpedia.org/property/constellation> "Orion"@en .
+<http://dbpedia.org/resource/Rigel>          <http://dbpedia.org/property/constellation> "Orion"@en .
+<http://dbpedia.org/resource/Sirius>         <http://dbpedia.org/property/constellation> "Canis Major"@en .
+<http://dbpedia.org/resource/Vega>           <http://dbpedia.org/property/constellation> "Lyra"@en .
+<http://dbpedia.org/resource/Polaris>        <http://dbpedia.org/property/constellation> "Ursa Minor"@en .
+<http://dbpedia.org/resource/Arcturus>       <http://dbpedia.org/property/constellation> "Boötes"@en .
+<http://dbpedia.org/resource/Aldebaran>      <http://dbpedia.org/property/constellation> "Taurus"@en .
+<http://dbpedia.org/resource/Antares>        <http://dbpedia.org/property/constellation> "Scorpius"@en .
+<http://dbpedia.org/resource/Proxima_Centauri> <http://dbpedia.org/property/constellation> "Centaurus"@en .
+<http://dbpedia.org/resource/Alpha_Centauri> <http://dbpedia.org/property/constellation> "Centaurus"@en .
+<http://dbpedia.org/resource/Fomalhaut>      <http://dbpedia.org/property/constellation> "Piscis Austrinus"@en .
+<http://dbpedia.org/resource/Achernar>       <http://dbpedia.org/property/constellation> "Eridanus"@en .
+<http://dbpedia.org/resource/Spica>          <http://dbpedia.org/property/constellation> "Virgo"@en .
+<http://dbpedia.org/resource/Deneb>          <http://dbpedia.org/property/constellation> "Cygnus"@en .
+<http://dbpedia.org/resource/Canopus>        <http://dbpedia.org/property/constellation> "Carina"@en .
+
+# --- Manual additions: Local Group galaxy memberships ---
+<http://dbpedia.org/resource/Andromeda_Galaxy>        <http://dbpedia.org/ontology/locatedIn> "Local Group"@en .
+<http://dbpedia.org/resource/Triangulum_Galaxy>       <http://dbpedia.org/ontology/locatedIn> "Local Group"@en .
+<http://dbpedia.org/resource/Milky_Way>               <http://dbpedia.org/ontology/locatedIn> "Local Group"@en .
+<http://dbpedia.org/resource/Large_Magellanic_Cloud>  <http://dbpedia.org/ontology/locatedIn> "Local Group"@en .
+<http://dbpedia.org/resource/Small_Magellanic_Cloud>  <http://dbpedia.org/ontology/locatedIn> "Local Group"@en .
+
+# --- Manual additions: Uranus discoverer (DBpedia stores as code "P61", not a name) ---
+<http://dbpedia.org/resource/Uranus> <http://dbpedia.org/ontology/discoverer> <http://dbpedia.org/resource/William_Herschel> .
+
+# --- Manual additions: chemical composition for gas giants and major stars ---
+<http://dbpedia.org/resource/Sun>     <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Hydrogen> .
+<http://dbpedia.org/resource/Sun>     <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Helium> .
+<http://dbpedia.org/resource/Jupiter> <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Hydrogen> .
+<http://dbpedia.org/resource/Jupiter> <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Helium> .
+<http://dbpedia.org/resource/Saturn>  <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Hydrogen> .
+<http://dbpedia.org/resource/Saturn>  <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Helium> .
+<http://dbpedia.org/resource/Uranus>  <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Hydrogen> .
+<http://dbpedia.org/resource/Uranus>  <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Helium> .
+<http://dbpedia.org/resource/Uranus>  <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Methane> .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Hydrogen> .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Helium> .
+<http://dbpedia.org/resource/Neptune> <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Methane> .
+<http://dbpedia.org/resource/Betelgeuse> <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Hydrogen> .
+<http://dbpedia.org/resource/Betelgeuse> <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Helium> .
+<http://dbpedia.org/resource/Sirius>  <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Hydrogen> .
+<http://dbpedia.org/resource/Sirius>  <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Helium> .
+<http://dbpedia.org/resource/Vega>    <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Hydrogen> .
+<http://dbpedia.org/resource/Vega>    <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Helium> .
+<http://dbpedia.org/resource/White_dwarf> <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Carbon> .
+<http://dbpedia.org/resource/White_dwarf> <http://dbpedia.org/ontology/hasChemicalElement> <http://dbpedia.org/resource/Oxygen> .
