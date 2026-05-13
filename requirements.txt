@@ -1,0 +1,23 @@
+# Astronomy KG QA System — Python 3.12
+# Install with:  pip install -r requirements.txt
+#
+# tkinter is required but ships with Python on most platforms.
+# If missing on Linux: sudo apt install python3-tk
+
+# Knowledge graph
+rdflib==7.6.0
+SPARQLWrapper==2.0.0
+
+# NLP models (HuggingFace)
+transformers==5.7.0
+torch==2.11.0
+
+# Evaluation — Tier 2
+rouge-score==0.1.2
+nltk==3.9.4
+bert-score==0.3.13
+
+# Evaluation — Tier 1 / Tier 3
+scikit-learn==1.8.0
+numpy==2.4.4
+matplotlib==3.10.9

@@ -1,0 +1,35 @@
+# Tier 2 reference answers — human-written, natural-sounding
+# Format: question|||reference answer
+# One pair per line. Lines starting with # are comments.
+# These are intentionally NOT copied from the KG — slight paraphrasing and rounding
+# is what lets us show ROUGE/BLEU missing semantic matches that BERTScore catches.
+
+# --- TEMPERATURE ---
+How hot is Mars?|||Mars has a cold average surface temperature of roughly 210 K, about negative 63 degrees Celsius.
+What is the mean temperature of Earth?|||Earth has a mean surface temperature of about 288 K, or 15 degrees Celsius, warm enough to sustain liquid water.
+
+# --- DESCRIPTION ---
+What is the Andromeda Galaxy?|||The Andromeda Galaxy is a large barred spiral galaxy roughly 2.5 million light-years from Earth and the closest major galaxy to the Milky Way.
+What is Betelgeuse?|||Betelgeuse is a massive red supergiant star in the constellation Orion, one of the largest and brightest stars visible to the naked eye.
+What is the Hubble Space Telescope?|||The Hubble Space Telescope is a NASA and ESA observatory launched in 1990 that has provided some of the clearest images of distant galaxies and nebulae.
+What is a black hole?|||A black hole is a region of space where gravity is so strong that nothing, not even light, can escape once past the event horizon.
+
+# --- ORBITAL ---
+How long does Mars take to orbit the Sun?|||Mars takes approximately 687 Earth days to complete a full orbit around the Sun.
+What is the orbital period of Jupiter?|||Jupiter completes one orbit around the Sun in about 11.9 Earth years.
+
+# --- COMPOSITION ---
+What is Jupiter made of?|||Jupiter is composed mainly of hydrogen and helium, with traces of other gases, making it the largest gas giant in the Solar System.
+What is the Sun made of?|||The Sun is made primarily of hydrogen and helium, which it converts to energy through nuclear fusion in its core.
+What elements does Saturn contain?|||Saturn is composed mainly of hydrogen and helium, similar in composition to Jupiter but with a lower average density.
+
+# --- LOCATION ---
+Where is the Orion Nebula?|||The Orion Nebula is located in the constellation Orion, about 1,344 light-years from Earth.
+Where is the Milky Way?|||The Milky Way is our home galaxy and is a member of the Local Group, a collection of more than 50 galaxies.
+Where is Betelgeuse?|||Betelgeuse is located in the constellation Orion, approximately 700 light-years from Earth.
+
+# --- DISCOVERY ---
+Who discovered Europa?|||Europa was discovered by Galileo Galilei in 1610, along with the other Galilean moons of Jupiter.
+Who discovered Neptune?|||Neptune was discovered in 1846 by Urbain Le Verrier and Johann Galle, following mathematical predictions based on irregularities in the orbit of Uranus.
+Who discovered Pluto?|||Pluto was discovered on February 18, 1930 by astronomer Clyde Tombaugh at the Lowell Observatory in Arizona.
+What is the Crab Nebula?|||The Crab Nebula is a supernova remnant in the constellation Taurus, left over from a supernova explosion observed by astronomers in 1054 AD.

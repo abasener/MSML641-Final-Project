@@ -1,0 +1,132 @@
+# Evaluation question bank for Astronomy KG QA system
+# One question per line. Lines starting with # are comments.
+# Sections are labeled for reference only — the loader ignores them.
+# Total: 120 questions across 7 intents + filter + expected failures
+
+# --- TEMPERATURE (15) ---
+How hot is Mars?
+What is the temperature of Venus?
+How cold is Neptune?
+What is the surface temperature of Betelgeuse?
+How hot is the Sun?
+How cold is Uranus?
+What is the temperature of Saturn?
+How hot is Mercury?
+What is the mean temperature of Earth?
+How hot is Sirius?
+What is the surface temperature of Rigel?
+How hot is Vega?
+What is the temperature of Jupiter?
+How cold is Pluto?
+What is the temperature of the Moon?
+
+# --- DESCRIPTION (20) ---
+What is the Andromeda Galaxy?
+What is a neutron star?
+What is the Crab Nebula?
+What is the Hubble Space Telescope?
+What is Sirius?
+What is a black hole?
+What is the Orion Nebula?
+What is the James Webb Space Telescope?
+What is the Milky Way?
+What is Betelgeuse?
+What is Pluto?
+What is the Moon?
+What is the Eagle Nebula?
+What is a white dwarf?
+What is a pulsar?
+What is a quasar?
+What is a supernova?
+What is the Large Magellanic Cloud?
+What is Polaris?
+What is Europa?
+
+# --- COMPOSITION (10) ---
+What is the Sun made of?
+What elements does Jupiter contain?
+What is Saturn made of?
+What elements make up a white dwarf?
+What is Neptune made of?
+What elements does Uranus contain?
+What is Betelgeuse made of?
+What does the Milky Way contain?
+What elements is the Sun composed of?
+What is Earth made of?
+
+# --- DISCOVERY (12) ---
+Who discovered Neptune?
+When was Pluto discovered?
+Who found Uranus?
+When was Ceres discovered?
+When was Europa discovered?
+When was the Andromeda Galaxy discovered?
+When was Neptune discovered?
+When was the Orion Nebula discovered?
+When was the Crab Nebula discovered?
+Who discovered the Hubble Space Telescope?
+When was Sirius first catalogued?
+When was Betelgeuse discovered?
+
+# --- SIZE (12) ---
+How big is Jupiter?
+What is the radius of Saturn?
+How massive is the Sun?
+How large is the Milky Way?
+What is the diameter of Mars?
+How big is Neptune?
+What is the radius of Earth?
+How massive is Jupiter?
+What is the size of Betelgeuse?
+How big is Venus?
+What is the mass of Saturn?
+How big is the Moon?
+
+# --- LOCATION (10) ---
+Where is the Orion Nebula?
+Where is the Andromeda Galaxy located?
+Where is Betelgeuse?
+Where is the Crab Nebula?
+Where is Polaris located?
+Where is the Eagle Nebula?
+Where is the Large Magellanic Cloud?
+Where is the Small Magellanic Cloud?
+Where is Europa located?
+Where is Sirius?
+
+# --- ORBITAL (8) ---
+How long does Mars take to orbit the Sun?
+What is the orbital period of Jupiter?
+How many moons does Saturn have?
+How long does Earth take to orbit the Sun?
+What is the orbital period of Neptune?
+How many moons does Jupiter have?
+How long does Mercury take to orbit the Sun?
+What is the orbital period of Venus?
+
+# --- FILTER (13) ---
+What planets have a temperature below 300?
+What planets have a temperature above 250?
+What stars contain hydrogen?
+What galaxies are in the Local Group?
+What planets have a temperature below 300 and have moons?
+What planets have a temperature above 100?
+What planets have a temperature below 200?
+What planets have a temperature above 400?
+What planets have a temperature below 500 and have moons?
+What stars have a temperature above 5000?
+What nebulae are located in Orion?
+What galaxies have a temperature below 100?
+What planets have moons?
+
+# --- EXPECTED FAILURES — objects not in KG, tests graceful not-found handling (10) ---
+What is the temperature of Titan?
+Where is the Horsehead Nebula?
+What is the mass of Ganymede?
+How hot is Io?
+How big is Callisto?
+When was the Sombrero Galaxy discovered?
+What is the Ring Nebula made of?
+Where is the Triangulum Galaxy located?
+How big is the Small Magellanic Cloud?
+What is the temperature of Alpha Centauri?
