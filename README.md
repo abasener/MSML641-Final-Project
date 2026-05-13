@@ -104,7 +104,7 @@ Claude (Anthropic) was used as a coding assistant throughout this project. Speci
 - Building the unit test cases in test_pipeline.py
 - Generating the CLAUDE_RATINGS in Part 7c of the evaluation notebook, which serve as the second rater in the Cohen's Kappa calculation
 
-All project design decisions such as the three-stage pipeline architecture, knowledge graph scope, evaluation framework, and intent/predicate mappings are my own. The technical report is entirely my own writing. Claude was not used for ideation or design, only for translating already-decided logic into working code.
+All project design decisions such as the three-stage pipeline architecture, knowledge graph scope, evaluation framework, and intent/predicate mappings are my own. The technical report is entirely my own writing, aswell as the presitatoin. Claude was not used for ideation or design, only for translating already-decided logic into working code.
 
 ## Requirements
 
